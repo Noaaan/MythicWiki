@@ -33,7 +33,7 @@ theme:
         text: Fira Sans
         code: Fira Mono
 
-copyright: "Documentation by <a style=\"color: #13A6F0;\" href=\"https://github.com/Noaaan\">Noaaan</a>, with assistance from glisco, the Wisp Forest team, and the Wraith Coding Sesh crew"
+copyright: "Documentation by <a style=\"color: #13A6F0;\" href=\"https://github.com/Noaaan\">Noaaan</a>, with assistance from <a style=\"color: #13A6F0;\" href=\"https://github.com/gliscowo\">glisco</a>, the Wisp Forest team, and the Wraith Coding Sesh crew"
 extra:          
   social:
     - icon: fontawesome/brands/discord
@@ -50,7 +50,7 @@ extra:
           name: Mythic Metals Decorations
           icon: owo.png
       docs:
-          repo: https://github.com/Noaaan/docs
+          repo: https://github.com/Noaaan/MythicWiki
           name: Mythic Metals Wiki
 
 extra_css:
@@ -94,5 +94,5 @@ nav:
     - Home: 
         - index.md
     - MythicMetals:
-        - home.md
+        - mythicmetals/home.md
 
