@@ -1,6 +1,6 @@
 ---
 title: Home
-project: isometric-renders
+project: mythicmetals
 ---
 
 <!-- !!! tip ""
@@ -9,7 +9,7 @@ project: isometric-renders
 <br> -->
 
 # Isometric Renders
-To get started, check out [/isorender](slash_isorender.md) - that page contains documentation for the primary command you use to launch Isometric Renders
+To get started, check out REDACTED - that page contains documentation for the primary command you use to launch Isometric Renders
 
 !!! abstract ""
     #### Performance Warning
@@ -33,4 +33,4 @@ To get started, check out [/isorender](slash_isorender.md) - that page contains 
 
  - #### Studio Mode
 
-    While in a render screen, you can press ++f10++ to ender **Studio Mode**. While in this mode, the background of your screen is filled with your [background color](options.md#background-color) and the UI is not rendered. This is sometimes useful when you want to take a screen recording and don't care about transparency or a higher resolution than your monitor support. To exit Studio Mode, press ++f10++ again.
+    While in a render screen, you can press ++f10++ to ender **Studio Mode**. While in this mode, the background of your screen is filled with your `<HYPERLINK BLOCKED>` and the UI is not rendered. This is sometimes useful when you want to take a screen recording and don't care about transparency or a higher resolution than your monitor support. To exit Studio Mode, press ++f10++ again.
