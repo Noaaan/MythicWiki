@@ -27,7 +27,7 @@ theme:
         content.code.annotate
     favicon: assets/favicon.png
     icon:
-      logo: octicons/flame-16 
+      logo: octicons/ruby-24
     language: en
     font:
         text: Fira Sans
@@ -37,9 +37,9 @@ copyright: "Documentation by <a style=\"color: #13A6F0;\" href=\"https://github.
 extra:          
   social:
     - icon: fontawesome/brands/discord
-      link: https://discord.gg/xrwHKktV2d
+      link: https://discord.com/invite/69cKvQWScC
     - icon: fontawesome/brands/github
-      link: https://github.com/wisp-forest/
+      link: https://github.com/Noaaan
   projects:
       mythicmetals:
           repo: https://github.com/Noaaan/MythicMetals
@@ -93,6 +93,6 @@ markdown_extensions:
 nav:
     - Home: 
         - index.md
-    - MythicMetals:
-        - mythicmetals/home.md
+    - Specification:
+        - spec.md
 
