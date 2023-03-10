@@ -34,7 +34,7 @@
 
 @media screen and (max-width: 50em) {
   .sized-image {
-    width: calc(var(--image-width) * 1.5);	  
+    width: calc(var(--image-width) * 1.0);	  
   }
 }
 
