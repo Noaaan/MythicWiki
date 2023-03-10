@@ -39,6 +39,7 @@
 }
 
 :root > [data-md-color-scheme=slate] {
+  --md-hue: 255;
   --md-code-hl-color:                  hsla(#{hex2hsl($clr-yellow-a200)}, 0.5);
   --md-code-hl-number-color:           #AEFFE0;
   --md-code-hl-special-color:          #42FFC2;
