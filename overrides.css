@@ -39,7 +39,7 @@
 }
 
 :root > [data-md-color-scheme=slate] {
-  --md-hue: 255;
+  --md-hue: 233;
   --md-code-hl-color:                  hsla(#{hex2hsl($clr-yellow-a200)}, 0.5);
   --md-code-hl-number-color:           #AEFFE0;
   --md-code-hl-special-color:          #42FFC2;
@@ -53,4 +53,9 @@
   --md-code-hl-comment-color:          #767982;
   --md-code-hl-generic-color:          #CCCED3;
   --md-code-hl-variable-color:         #CCCED3;
+}
+
+.tooltip {
+  text-size-adjust: 100%;
+  text-shadow: 1px 1px 1px black;
 }
