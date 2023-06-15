@@ -28,6 +28,18 @@
   margin-left: auto;
 }
 
+.sized-recipe {
+  width: var(--image-width);
+  image-rendering: pixelated;
+}
+
+@media screen and (max-width: 50em) {
+  .sized-recipe {
+    width: calc(var(--image-width) * 1.0);	  
+    image-rendering: pixelated;
+  }
+}
+
 .sized-image {
   width: var(--image-width);
 }
