@@ -1,8 +1,8 @@
 ---
 title: Stormyx
 project: mythicmetals
-summary: Statistics for Stormyx Armor - 
-armor-stats: Helm=3/2, Chest=8/2, Legs=6/2, Boots=3/2
+summary: Statistics for Stormyx Armor 
+armor: Helm=3/2, Chest=8/2, Legs=6/2, Boots=3/2
 ---
 
 # Stormyx Armor
