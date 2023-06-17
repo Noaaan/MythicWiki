@@ -46,34 +46,6 @@ Currently the best way to gain information is through the GitHub wiki, the [Disc
     Flat magic damage reduction by X points per piece.<br>
     </center>
 
-!!! info inline end ""
-    <center>**Stormyx**<br>
-    ![Image of a Stormyx Ingot, a mainly pink ingot with a blue accent/border](assets/favicon.png)<br>
-    Can be made into tools and armor<br><br>
-    Tool Durability = 1305<br><br>
-    Helmet = 
-    ![armor](assets/minecraft/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
-    ![armor](assets/minecraft/half_armor_icon.png){ .sized-image style="--image-width: 8%;" }
-    (3), 360 durability<br>
-    Chestplate =
-    ![armor](assets/minecraft/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
-    ![armor](assets/minecraft/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
-    ![armor](assets/minecraft/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
-    ![armor](assets/minecraft/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
-    (8), 480 durability<br>
-    Leggings = 
-    ![armor](assets/minecraft/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
-    ![armor](assets/minecraft/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
-    ![armor](assets/minecraft/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
-    (6), 450 durability<br>
-    Boots = 
-    ![armor](assets/minecraft/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
-    ![armor](assets/minecraft/half_armor_icon.png){ .sized-image style="--image-width: 8%;" }
-    (3), 390 durability<br><br>
-    *Ability - Magic Protection:* <br>
-    Flat magic damage reduction by X points per piece.<br>
-    </center>
-
 There is some text here
 
 If you look at any of the wikis in the motivation section, and look at any sort of weapon, you will often find an *aside*, serving an infobox with a quick summary of its core stats. I want to do something similar with most of the Mythic Metals materials, though for now I simply do not know how *exactly* I want to do it.

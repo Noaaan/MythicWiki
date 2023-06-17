@@ -93,9 +93,15 @@ markdown_extensions:
 nav:
     - Home: 
         - index.md
-    - Specification:
-        - spec.md
     - Armor:
         - armor/palladium.md
         - armor/stormyx.md
-
+    - Equipment:
+        - equipment/stormyx.md
+        - equipment/stormyx-shield.md
+    - Materials:
+        - materials/stormyx.md
+    - Ores:
+        - ores/stormyx.md
+    - Specification:
+        - spec.md
