@@ -31,6 +31,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://wiki.mythicmetals.dev/materials/palladium/</loc>
+         <lastmod>2023-06-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://wiki.mythicmetals.dev/materials/stormyx/</loc>
          <lastmod>2023-06-24</lastmod>
          <changefreq>daily</changefreq>
