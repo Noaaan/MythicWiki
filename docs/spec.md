@@ -24,23 +24,23 @@ Currently the best way to gain information is through the GitHub wiki, the [Disc
     Can be made into tools and armor<br><br>
     Tool Durability = 1305<br><br>
     Helmet = 
-    ![armor](assets/minecraft/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
-    ![armor](assets/minecraft/half_armor_icon.png){ .sized-image style="--image-width: 8%;" }
+    ![armor](assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
+    ![armor](assets/icon/half_armor_icon.png){ .sized-image style="--image-width: 8%;" }
     (3), 360 durability<br>
     Chestplate =
-    ![armor](assets/minecraft/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
-    ![armor](assets/minecraft/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
-    ![armor](assets/minecraft/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
-    ![armor](assets/minecraft/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
+    ![armor](assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
+    ![armor](assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
+    ![armor](assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
+    ![armor](assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
     (8), 480 durability<br>
     Leggings = 
-    ![armor](assets/minecraft/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
-    ![armor](assets/minecraft/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
-    ![armor](assets/minecraft/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
+    ![armor](assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
+    ![armor](assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
+    ![armor](assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
     (6), 450 durability<br>
     Boots = 
-    ![armor](assets/minecraft/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
-    ![armor](assets/minecraft/half_armor_icon.png){ .sized-image style="--image-width: 8%;" }
+    ![armor](assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
+    ![armor](assets/icon/half_armor_icon.png){ .sized-image style="--image-width: 8%;" }
     (3), 390 durability<br><br>
     *Ability - Magic Protection:* <br>
     Flat magic damage reduction by X points per piece.<br>
