@@ -2,7 +2,7 @@
 title: Stormyx Armor
 project: mythicmetals
 summary: A summary of Stormyx Armor stats and abilities.
-icon: stormyx_armor.png
+armor-model: stormyx_256.png
 ---
 
 # Stormyx Armor
