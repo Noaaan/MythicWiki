@@ -1,6 +1,6 @@
 ## Mythic Metals Wiki
 
-This repository contains the basis of what the Mythic Metals Wiki is going to be. The [theme used is the same as Wisp Forest](https://github.com/wisp-forest/docs-theme), and is also included as a submodule in case you want to serve the site locally.
+This repository contains the basis of what the Mythic Metals Wiki is going to be. The [theme used is the same as Wisp Forest, albeit with a handful of changes](https://github.com/Noaaan/mythic-docs-theme), and is also included as a submodule in case you want to serve the site locally.
 
 This Wiki is heavily work-in-progress. There are many details to be ironed out, such as structure, contribution guidelines, and tools for exporting the data from Mythic Metals into a Wiki-friendly format. Maintenance on this will also be somewhat slow, since the main focus right now is to finish the current feature set of Mythic Metals before expensively documenting it. 
 
