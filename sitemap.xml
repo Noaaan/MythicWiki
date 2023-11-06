@@ -2,47 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://wiki.mythicmetals.dev/</loc>
-         <lastmod>2023-06-24</lastmod>
+         <lastmod>2023-11-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.mythicmetals.dev/spec/</loc>
-         <lastmod>2023-06-24</lastmod>
+         <lastmod>2023-11-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.mythicmetals.dev/armor/palladium/</loc>
-         <lastmod>2023-06-24</lastmod>
+         <lastmod>2023-11-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.mythicmetals.dev/armor/stormyx/</loc>
-         <lastmod>2023-06-24</lastmod>
+         <lastmod>2023-11-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.mythicmetals.dev/equipment/stormyx-shield/</loc>
-         <lastmod>2023-06-24</lastmod>
+         <lastmod>2023-11-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.mythicmetals.dev/equipment/stormyx/</loc>
-         <lastmod>2023-06-24</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://wiki.mythicmetals.dev/materials/palladium/</loc>
-         <lastmod>2023-06-24</lastmod>
+         <lastmod>2023-11-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.mythicmetals.dev/materials/stormyx/</loc>
-         <lastmod>2023-06-24</lastmod>
+         <lastmod>2023-11-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.mythicmetals.dev/ores/stormyx/</loc>
-         <lastmod>2023-06-24</lastmod>
+         <lastmod>2023-11-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
