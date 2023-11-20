@@ -60,6 +60,8 @@ plugins:
   - search
   - git-revision-date-localized:
       type: timeago
+  - mkdocs-video:
+      video_autoplay: True
 
 markdown_extensions:
     - admonition
@@ -93,10 +95,12 @@ markdown_extensions:
 nav:
     - Home: 
         - index.md
+        - faq.md
     - Armor:
         - armor/palladium.md
         - armor/stormyx.md
     - Equipment:
+        - equipment/banglum-nukes.md
         - equipment/stormyx.md
         - equipment/stormyx-shield.md
     - Materials:
