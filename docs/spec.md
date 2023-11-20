@@ -11,9 +11,9 @@ For the longest time I have wanted to write an actual wiki for Mythic Metals.
 
 A little bit of context: I play a lot of RPGs and MMORPGs[^1]. When I play these, I expect a good wiki to provide clear, structurized and detailed information about whatever topic I am looking for. 
 
-There are multiple examples on great wikis out there. Some of the wikis I currently enjoy reading are the [Hypixel Skyblock Wiki](https://wiki.hypixel.net/Recombobulator_3000), the [Old School RuneScape Wiki](https://os.rs.wiki), and of course, the [Minecraft Wiki](https://minecraft.wiki). All of them thrive on the community, and the extent of the documentation just goes to show how deep the love for the games go. 
+There are multiple examples on great wikis out there. Some of the wikis I currently enjoy reading are the [Hypixel Skyblock Wiki](xel-skyblock.fandom.com/wiki/Hypixel_SkyBlock_Wiki), the [Old School RuneScape Wiki](https://os.rs.wiki), and of course, the [Minecraft Wiki](https://minecraft.fandom.com/wiki/Minecraft_Wiki). All of them (with a tiny exception for the officially supported RuneScape Wiki) are driven entirely by the community, and the extent of the documentation just goes to show how deep the love for the games go. 
 
-Most of used to be hosted on Fandom a site built on the popular MediaWiki framework. I really like this structure, but for Fandom specifically I do not like the advertisements placed all across the page, they are really intrusive. I have also heard rumors regarding fairly restrictive theming options compared to what people can do when self-hosting. These reasons add up, so going DIY is definitely the best solution. I already have some experience working on the Wisp Forest docs, and with the open-source nature of the Mythic Metals project, and my studies related to programming in all forms, I am therefore able to serve a wiki like this. 
+Most of them use Fandom (MediaWiki) as their base. I really like this structure, but for Fandom specifically I do not like the advertisements placed all across the page, they are really intrusive. That is why I decided I wanted to self-host the wiki in some way. I already have some experience working on the Wisp Forest docs, and with the open-source nature of the Mythic Metals project, and my studies related to programming in all forms, I am therefore able to serve a wiki like this. 
 
 An interesting development has taken place as of writing, where more and more people are moving to more independent wiki pages. Hypixel moved to the Official Hypixel Wiki, and the Minecraft Wiki moved away from Fandom fairly recently. The links were therefore updated accordingly.
 
@@ -44,8 +44,13 @@ Currently the best way to gain information is through the GitHub wiki, the [Disc
     ![armor](assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
     ![armor](assets/icon/half_armor_icon.png){ .sized-image style="--image-width: 8%;" }
     (3), 390 durability<br><br>
+    ---
     *Ability - Magic Protection:* <br>
     Flat magic damage reduction by X points per piece.<br>
+    <br>
+    ---
+    *Ability - Divine Judgement:* <br>
+    Assimilate an undead if they are below 10% health.<br>
     </center>
 
 There is some text here

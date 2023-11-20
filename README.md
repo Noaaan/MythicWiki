@@ -20,6 +20,8 @@ For building against the theme you need to install MkDocs via Pip (Python). To g
 
 `pip install mkdocs-git-revision-date-localized-plugin`
 
+`pip install mkdocs-video`
+
 To serve simply use Mkdocs serve command:
 
 `mkdocs serve`
