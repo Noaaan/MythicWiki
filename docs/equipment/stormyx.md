@@ -1,8 +1,10 @@
 ---
 title: Stormyx Tools
 project: mythicmetals
-summary: A summary of Stormyx Armor stats and abilities.
+summary: A summary of Stormyx Tools stats and abilities.
 ---
+
+# Stormyx Tools
 
 !!! info inline end ""
     <center class=tooltip>
@@ -35,6 +37,12 @@ summary: A summary of Stormyx Armor stats and abilities.
     +4.5 Attack Damage, 1.0 Attack Speed<br>
     1305 Durability<br>
 
+Stormyx Tools are simple tools with no special abilities. Compared to Diamond Tools they are slightly faster with slightly less durability. 
+
+## Obtaining
+### Crafting
+
+Stormyx Tools can be crafted from [Stormyx Ingots](https://youtu.be/nEmXCTZN154), which is a resource found in <span style="color:orange">The Nether.</span> It is crafted just like any other armor.
 
 ![Image of the recipe for Stormyx Sword](../assets/mythicmetals/recipes/tools/stormyx_sword.png){ .sized-recipe style="--image-width: 40%;" }<br>
 ![Image of the recipe for Stormyx Axe](../assets/mythicmetals/recipes/tools/stormyx_axe.png){ .sized-recipe style="--image-width: 40%;" }<br>

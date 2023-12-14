@@ -1,7 +1,7 @@
 ---
 title: Banglum Nukes
 project: mythicmetals
-summary: A summary of Banglum Nukes and its variants.
+summary: A summary of how to use Banglum Nukes and its variants.
 ---
 
 *War... War never changes*  
