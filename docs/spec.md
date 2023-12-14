@@ -46,7 +46,7 @@ Currently the best way to gain information is through the GitHub wiki, the [Disc
     (3), 390 durability<br><br>
     ---
     *Ability - Magic Protection:* <br>
-    Flat magic damage reduction by X points per piece.<br>
+    Flat magic damage reduction by X points.<br>
     <br>
     ---
     *Ability - Divine Judgement:* <br>

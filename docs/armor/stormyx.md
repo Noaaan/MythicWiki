@@ -50,7 +50,7 @@ armoricon: stormyx_256.png
     390 Durability<br>
     ---
     *Ability - Magic Protection:* <br>
-    Reduces magic damage taken.<br>
+    Flat magic damage reduction by X points.<br>
     </center>
 
 

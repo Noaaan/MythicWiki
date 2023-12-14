@@ -103,9 +103,8 @@ nav:
         - equipment/banglum-nukes.md
         - equipment/stormyx.md
         - equipment/stormyx-shield.md
-    - Materials:
+    - Ores and Materials:
         - materials/stormyx.md
-    - Ores:
-        - ores/stormyx.md
+        - materials/rare-drops.md
     - Specification:
         - spec.md

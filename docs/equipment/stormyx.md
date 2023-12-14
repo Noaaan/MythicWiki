@@ -8,6 +8,7 @@ summary: A summary of Stormyx Tools stats and abilities.
 
 !!! info inline end ""
     <center class=tooltip>
+    <h3>**Stormyx Tools**</h3>
     <h4>**Stormyx Sword**</h4>
     ![Image of Stormyx Sword](../assets/mythicmetals/stormyx_sword.png){ .sized-image style="--image-width: 40%;" }<br>
     +7.5 Attack Damage, 1.6 Attack Speed<br>
