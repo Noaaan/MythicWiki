@@ -33,9 +33,9 @@
   image-rendering: pixelated;
 }
 
-@media screen and (max-width: 50em) {
+@media screen and (max-width: 45em) {
   .sized-recipe {
-    width: calc(var(--image-width) * 1.0);	  
+    width: calc(var(--image-width) * 1.425);	  
     image-rendering: pixelated;
   }
 }
