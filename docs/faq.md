@@ -13,6 +13,31 @@ Note that two of the advancement have Alloy Forgery Forge Controllers in them. T
 ### How do I make alloys?
 [Create an Alloy Forge.](https://modrinth.com/mod/alloy-forgery) In a general unmodified Mythic Metals context a Tier 2 Forge can create any alloy. 
 
+### How do I craft X?
+All recipes follow vanilla patterns. For example when crafting a pickaxe follow the pickaxe pattern (i.e. 3 stone and two sticks), or use the [associating smithing template](#where-can-i-find-smithing-templates). 
+
+The rest, including **Alloy Recipes**, can be viewed using recipe viewers like [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items) or [EMI](https://modrinth.com/mod/emi). As of writing Just Enough Items (JEI) is not supported. 
+
+### Where can I find X?
+Most of the ores spawn in the Overworld, some spawn in The Nether. End Stone Starrite spawns in The End.
+There are some biome-exclusive ores, listed here:
+
+- Aquarium: Spawns in Aquatic Biomes, like Rivers and Oceans
+- Prometheum: Spawns in Warm Biomes, like Lush Caves, or Jungles
+- Osmium: Spawns in Mountains
+
+For where ores spawn specifically, this will eventually make its way into the wiki in the Material section. For now you can enjoy this chart made by Mkat420 (yes, it is still *mostly* accurate)
+
+![chart displaying the various ore heights for all the ores in mythic metals](./assets/ore-chart-zero-fifteen-plus.png)
+
+#### Related biome tags (technical stuff)
+
+- Overworld: spawns anywhere in the `#mythicmetals:mythic_ore_biomes` tag, which includes `#c:in_overworld`
+- Aquarium: spawns anywhere in the `#c:aquatic` tag
+- Prometheum: spawns anywhere in the `#mythicmetals:prometheum_biomes` tag, which includes `#minecraft:is_jungle`
+- Osmium: spawns anywhere in the `#mythicmetals:osmium_biomes` tag, which includes `#c:mountain` and `#c:extreme_hills`
+- The Nether and The End are currently not tag-driven, and simply uses Fabric API to insert into all relevant biomes. In the future this might be changed.
+
 ### What does X material do?
 This one will eventually be answered once the Material section is filled out. For now you can see the following subquestions:
 
