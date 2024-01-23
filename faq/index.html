@@ -11,7 +11,7 @@
         <link rel="canonical" href="https://wiki.mythicmetals.dev/faq/">
       
       <link rel="icon" href="../assets/favicon.png">
-      <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-8.5.6">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-8.5.6">
       
         
         <meta content="FAQ" property="og:title">
@@ -22,7 +22,7 @@
 
     <meta content="Answers for the most frequently asked Mythic Metals questions" property="og:description">
     
-    
+
     
     
       
@@ -61,7 +61,7 @@
     
     
     
-          
+
     
   </head>
   
@@ -437,6 +437,33 @@
   <a href="#how-do-i-make-alloys" class="md-nav__link">
     How do I make alloys?
   </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-do-i-craft-x" class="md-nav__link">
+    How do I craft X?
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#where-can-i-find-x" class="md-nav__link">
+    Where can I find X?
+  </a>
+  
+    <nav class="md-nav" aria-label="Where can I find X?">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#related-biome-tags-technical-stuff" class="md-nav__link">
+    Related biome tags (technical stuff)
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -837,6 +864,33 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#how-do-i-craft-x" class="md-nav__link">
+    How do I craft X?
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#where-can-i-find-x" class="md-nav__link">
+    Where can I find X?
+  </a>
+  
+    <nav class="md-nav" aria-label="Where can I find X?">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#related-biome-tags-technical-stuff" class="md-nav__link">
+    Related biome tags (technical stuff)
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#what-does-x-material-do" class="md-nav__link">
     What does X material do?
   </a>
@@ -926,6 +980,27 @@
 Note that two of the advancement have Alloy Forgery Forge Controllers in them. These are direct hints in what Tier you need to forge the specific alloys. </p>
 <h3 id="how-do-i-make-alloys">How do I make alloys?<a class="headerlink" href="#how-do-i-make-alloys" title="Permanent link">¶</a></h3>
 <p><a href="https://modrinth.com/mod/alloy-forgery">Create an Alloy Forge.</a> In a general unmodified Mythic Metals context a Tier 2 Forge can create any alloy. </p>
+<h3 id="how-do-i-craft-x">How do I craft X?<a class="headerlink" href="#how-do-i-craft-x" title="Permanent link">¶</a></h3>
+<p>All recipes follow vanilla patterns. For example when crafting a pickaxe follow the pickaxe pattern (i.e. 3 stone and two sticks), or use the <a href="#where-can-i-find-smithing-templates">associating smithing template</a>. </p>
+<p>The rest, including <strong>Alloy Recipes</strong>, can be viewed using recipe viewers like <a href="https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items">Roughly Enough Items</a> or <a href="https://modrinth.com/mod/emi">EMI</a>. As of writing Just Enough Items (JEI) is not supported. </p>
+<h3 id="where-can-i-find-x">Where can I find X?<a class="headerlink" href="#where-can-i-find-x" title="Permanent link">¶</a></h3>
+<p>Most of the ores spawn in the Overworld, some spawn in The Nether. End Stone Starrite spawns in The End.
+There are some biome-exclusive ores, listed here:</p>
+<ul>
+<li>Aquarium: Spawns in Aquatic Biomes, like Rivers and Oceans</li>
+<li>Prometheum: Spawns in Warm Biomes, like Lush Caves, or Jungles</li>
+<li>Osmium: Spawns in Mountains</li>
+</ul>
+<p>For where ores spawn specifically, this will eventually make its way into the wiki in the Material section. For now you can enjoy this chart made by Mkat420 (yes, it is still <em>mostly</em> accurate)</p>
+<p><img alt="chart displaying the various ore heights for all the ores in mythic metals" src="../assets/ore-chart-zero-fifteen-plus.png"></p>
+<h4 id="related-biome-tags-technical-stuff">Related biome tags (technical stuff)<a class="headerlink" href="#related-biome-tags-technical-stuff" title="Permanent link">¶</a></h4>
+<ul>
+<li>Overworld: spawns anywhere in the <code>#mythicmetals:mythic_ore_biomes</code> tag, which includes <code>#c:in_overworld</code></li>
+<li>Aquarium: spawns anywhere in the <code>#c:aquatic</code> tag</li>
+<li>Prometheum: spawns anywhere in the <code>#mythicmetals:prometheum_biomes</code> tag, which includes <code>#minecraft:is_jungle</code></li>
+<li>Osmium: spawns anywhere in the <code>#mythicmetals:osmium_biomes</code> tag, which includes <code>#c:mountain</code> and <code>#c:extreme_hills</code></li>
+<li>The Nether and The End are currently not tag-driven, and simply uses Fabric API to insert into all relevant biomes. In the future this might be changed.</li>
+</ul>
 <h3 id="what-does-x-material-do">What does X material do?<a class="headerlink" href="#what-does-x-material-do" title="Permanent link">¶</a></h3>
 <p>This one will eventually be answered once the Material section is filled out. For now you can see the following subquestions:</p>
 <h4 id="how-does-branding-work">How does Branding work?<a class="headerlink" href="#how-does-branding-work" title="Permanent link">¶</a></h4>
@@ -1007,36 +1082,36 @@ The way this works is that the effect applies Fire Vulnerability. An extra effec
 <table>
 <thead>
 <tr>
-<th align="center">Method</th>
-<th align="center">Description</th>
-<th align="center">Relevant versions</th>
+<th style="text-align: center;">Method</th>
+<th style="text-align: center;">Description</th>
+<th style="text-align: center;">Relevant versions</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="center">Enchanted Midas Gold Block</td>
-<td align="center">Golden Luck - Gives you +2 Luck while holding the drill, and randomly drops raw gold when breaking an ore.</td>
-<td align="center">0.18.0+</td>
+<td style="text-align: center;">Enchanted Midas Gold Block</td>
+<td style="text-align: center;">Golden Luck - Gives you +2 Luck while holding the drill, and randomly drops raw gold when breaking an ore.</td>
+<td style="text-align: center;">0.18.0+</td>
 </tr>
 <tr>
-<td align="center">Prometheum Bouquet</td>
-<td align="center">Slowly repairs the durability of the drill.</td>
-<td align="center">0.18.0+</td>
+<td style="text-align: center;">Prometheum Bouquet</td>
+<td style="text-align: center;">Slowly repairs the durability of the drill.</td>
+<td style="text-align: center;">0.18.0+</td>
 </tr>
 <tr>
-<td align="center">Aquarium Pearl</td>
-<td align="center">Aqua Affinity - Increases your mining speed underwater, and restores a small amount of air when breaking an ore.</td>
-<td align="center">0.17.0+</td>
+<td style="text-align: center;">Aquarium Pearl</td>
+<td style="text-align: center;">Aqua Affinity - Increases your mining speed underwater, and restores a small amount of air when breaking an ore.</td>
+<td style="text-align: center;">0.17.0+</td>
 </tr>
 <tr>
-<td align="center">Stormyx Shell</td>
-<td align="center">Banglum Defuser - Drastically reduces the chance of Banglum exploding.</td>
-<td align="center">0.17.0+</td>
+<td style="text-align: center;">Stormyx Shell</td>
+<td style="text-align: center;">Banglum Defuser - Drastically reduces the chance of Banglum exploding.</td>
+<td style="text-align: center;">0.17.0+</td>
 </tr>
 <tr>
-<td align="center">Carmot Stone</td>
-<td align="center">+1 Fortune - Increases the level of Fortune on your drill by one level.</td>
-<td align="center">0.18.0+</td>
+<td style="text-align: center;">Carmot Stone</td>
+<td style="text-align: center;">+1 Fortune - Increases the level of Fortune on your drill by one level.</td>
+<td style="text-align: center;">0.18.0+</td>
 </tr>
 </tbody>
 </table>
@@ -1048,91 +1123,91 @@ The way this works is that the effect applies Fire Vulnerability. An extra effec
 <table>
 <thead>
 <tr>
-<th align="center">Block</th>
-<th align="center">Description</th>
-<th align="center">Relevant Versions</th>
+<th style="text-align: center;">Block</th>
+<th style="text-align: center;">Description</th>
+<th style="text-align: center;">Relevant Versions</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="center">Iron</td>
-<td align="center">Fling opponents up, makes the staff stronger.</td>
-<td align="center">0.14.0+</td>
+<td style="text-align: center;">Iron</td>
+<td style="text-align: center;">Fling opponents up, makes the staff stronger.</td>
+<td style="text-align: center;">0.14.0+</td>
 </tr>
 <tr>
-<td align="center">Gold</td>
-<td align="center">Grant yourself luck for two minutes.</td>
-<td align="center">0.14.0+</td>
+<td style="text-align: center;">Gold</td>
+<td style="text-align: center;">Grant yourself luck for two minutes.</td>
+<td style="text-align: center;">0.14.0+</td>
 </tr>
 <tr>
-<td align="center">Copper</td>
-<td align="center">Summon lightning on yourself.</td>
-<td align="center">0.14.0+</td>
+<td style="text-align: center;">Copper</td>
+<td style="text-align: center;">Summon lightning on yourself.</td>
+<td style="text-align: center;">0.14.0+</td>
 </tr>
 <tr>
-<td align="center">Diamond</td>
-<td align="center">Makes the staff stronger.</td>
-<td align="center">0.14.0+</td>
+<td style="text-align: center;">Diamond</td>
+<td style="text-align: center;">Makes the staff stronger.</td>
+<td style="text-align: center;">0.14.0+</td>
 </tr>
 <tr>
-<td align="center">Bronze</td>
-<td align="center">Smite whoever you strike with lightning.</td>
-<td align="center">0.14.0+</td>
+<td style="text-align: center;">Bronze</td>
+<td style="text-align: center;">Smite whoever you strike with lightning.</td>
+<td style="text-align: center;">0.14.0+</td>
 </tr>
 <tr>
-<td align="center">Netherite</td>
-<td align="center">Powerful melee weapon, makes the staff much stronger.</td>
-<td align="center">0.14.0+</td>
+<td style="text-align: center;">Netherite</td>
+<td style="text-align: center;">Powerful melee weapon, makes the staff much stronger.</td>
+<td style="text-align: center;">0.14.0+</td>
 </tr>
 <tr>
-<td align="center">Metallurgium</td>
-<td align="center">Highest single hit damage in the entire mod, but extremely slow.</td>
-<td align="center">0.14.0+</td>
+<td style="text-align: center;">Metallurgium</td>
+<td style="text-align: center;">Highest single hit damage in the entire mod, but extremely slow.</td>
+<td style="text-align: center;">0.14.0+</td>
 </tr>
 <tr>
-<td align="center">Carmot</td>
-<td align="center">Heals you and everything around you for 10 points (5 hearts) of health.</td>
-<td align="center">0.14.2+</td>
+<td style="text-align: center;">Carmot</td>
+<td style="text-align: center;">Heals you and everything around you for 10 points (5 hearts) of health.</td>
+<td style="text-align: center;">0.14.2+</td>
 </tr>
 <tr>
-<td align="center">Midas Gold</td>
-<td align="center">Grants you and everyone around you Luck 2 for four minutes.</td>
-<td align="center">0.14.2+</td>
+<td style="text-align: center;">Midas Gold</td>
+<td style="text-align: center;">Grants you and everyone around you Luck 2 for four minutes.</td>
+<td style="text-align: center;">0.14.2+</td>
 </tr>
 <tr>
-<td align="center">Runite</td>
-<td align="center">Barrages your enemies in ice, freezing them in place.</td>
-<td align="center">0.14.2 to 0.16.4</td>
+<td style="text-align: center;">Runite</td>
+<td style="text-align: center;">Barrages your enemies in ice, freezing them in place.</td>
+<td style="text-align: center;">0.14.2 to 0.16.4</td>
 </tr>
 <tr>
-<td align="center">Star Platinum</td>
-<td align="center">Lets you swing the staff really fast.</td>
-<td align="center">0.14.2+</td>
+<td style="text-align: center;">Star Platinum</td>
+<td style="text-align: center;">Lets you swing the staff really fast.</td>
+<td style="text-align: center;">0.14.2+</td>
 </tr>
 <tr>
-<td align="center">Beacon</td>
-<td align="center">Grants players in a large radius (18 blocks) a random beacon effect for 30 seconds.</td>
-<td align="center">0.14.2+</td>
+<td style="text-align: center;">Beacon</td>
+<td style="text-align: center;">Grants players in a large radius (18 blocks) a random beacon effect for 30 seconds.</td>
+<td style="text-align: center;">0.14.2+</td>
 </tr>
 <tr>
-<td align="center">Lapis</td>
-<td align="center">Grants more experience to the user while being held.</td>
-<td align="center">0.14.2+</td>
+<td style="text-align: center;">Lapis</td>
+<td style="text-align: center;">Grants more experience to the user while being held.</td>
+<td style="text-align: center;">0.14.2+</td>
 </tr>
 <tr>
-<td align="center">Stormyx</td>
-<td align="center">Creates a forcefield while holding that reflects projectiles.</td>
-<td align="center">0.16.0+</td>
+<td style="text-align: center;">Stormyx</td>
+<td style="text-align: center;">Creates a forcefield while holding that reflects projectiles.</td>
+<td style="text-align: center;">0.16.0+</td>
 </tr>
 <tr>
-<td align="center">Sponge</td>
-<td align="center">Removes water in a 12 block radius.</td>
-<td align="center">0.17.0+</td>
+<td style="text-align: center;">Sponge</td>
+<td style="text-align: center;">Removes water in a 12 block radius.</td>
+<td style="text-align: center;">0.17.0+</td>
 </tr>
 <tr>
-<td align="center">Hallowed</td>
-<td align="center">Makes the staff much stronger.</td>
-<td align="center">0.17.0+</td>
+<td style="text-align: center;">Hallowed</td>
+<td style="text-align: center;">Makes the staff much stronger.</td>
+<td style="text-align: center;">0.17.0+</td>
 </tr>
 </tbody>
 </table>
@@ -1147,7 +1222,7 @@ I would much rather actually finish Mythic Metals and get it out of beta before 
   <small>
     
       Last update:
-      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago"><span class="timeago" datetime="2023-11-20T13:13:13+00:00" locale="en"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2023-11-20</span>
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago"><span class="timeago" datetime="2024-01-23T11:39:44+00:00" locale="en"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2024-01-23</span>
       
     
   </small>
