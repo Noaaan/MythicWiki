@@ -38,6 +38,23 @@ For where ores spawn specifically, this will eventually make its way into the wi
 - Osmium: spawns anywhere in the `#mythicmetals:osmium_biomes` tag, which includes `#c:mountain` and `#c:extreme_hills`
 - The Nether and The End are currently not tag-driven, and simply uses Fabric API to insert into all relevant biomes. In the future this might be changed.
 
+### Can I mine this?
+
+Mythic Metals follows the vanilla progression closely. 
+As a rule of thumb: Once you get a Netherite Pickaxe you can mine any ore in the mod.
+There are however **multiple pickaxes in the mod that also have this mining level**.
+As of writing the following pickaxes have this mining level:
+
+- Hallowed
+- Adamantite
+- Mythril
+- Orichalcum
+- Palladium
+- Star Platinum
+
+Once the wiki is complete, it will contain information on which mining levels *tools have*, and what mining levels *ores require*.  
+
+
 ### What does X material do?
 This one will eventually be answered once the Material section is filled out. For now you can see the following subquestions:
 
