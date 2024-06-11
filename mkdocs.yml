@@ -18,13 +18,13 @@ theme:
             icon: material/brightness-7 
             name: Switch to dark mode
     features:
-        navigation.tabs
-        navigation.indexes
-        navigation.expand
-        search.suggest
-        search.share
-        navigation.top
-        content.code.annotate
+        - navigation.tabs
+        - navigation.indexes
+        - navigation.expand
+        - search.suggest
+        - search.share
+        - navigation.top
+        - content.tooltips
     favicon: assets/favicon.png
     icon:
       logo: octicons/ruby-24
@@ -64,6 +64,7 @@ plugins:
       video_autoplay: True
 
 markdown_extensions:
+    - abbr
     - admonition
     - attr_list
     - pymdownx.tasklist:
@@ -87,8 +88,8 @@ markdown_extensions:
     - toc:
         permalink: true
     - pymdownx.emoji:
-        emoji_index: !!python/name:materialx.emoji.twemoji
-        emoji_generator: !!python/name:materialx.emoji.to_svg
+        emoji_index: !!python/name:material.extensions.emoji.twemoji
+        emoji_generator: !!python/name:material.extensions.emoji.to_svg
     - pymdownx.tilde
     - pymdownx.critic
 
@@ -104,7 +105,9 @@ nav:
         - equipment/stormyx.md
         - equipment/stormyx-shield.md
     - Ores and Materials:
+        - materials/adamantite-ores.md
         - materials/stormyx.md
+        - materials/stormyx-ores.md
         - materials/rare-drops.md
     - Specification:
         - spec.md
