@@ -13,7 +13,7 @@ Well, its not so hard as you think. Does require a lot of specialized materials.
 You are going to need a lot of Banglum and Morkite.  
 The multiblock is going to cost you 14 blocks of Banglum Blocks, and 12 blocks of Morkite, structured like this:
 
-![Picture of the structure of the Banglum Nuke, forming a 3x3x3 cube of alternating Banglum Blocks and Morkite Blocks, with a Banglum Nuke Core in the middle](https://wsrv.nl/?url=https://media.discordapp.net/attachments/857970721166065674/1009162900100874260/unknown.png)
+![Picture of the structure of the Banglum Nuke, forming a 3x3x3 cube of alternating Banglum Blocks and Morkite Blocks, with a Banglum Nuke Core in the middle](../assets/mythicmetals/banglum_nuke_multiblock.png)
 
 
 For the core of the bomb you need a Banglum Chunk as well.  
