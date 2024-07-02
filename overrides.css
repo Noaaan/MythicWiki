@@ -66,8 +66,3 @@
   --md-code-hl-generic-color:          #CCCED3;
   --md-code-hl-variable-color:         #CCCED3;
 }
-
-.tooltip {
-  text-size-adjust: 100%;
-  text-shadow: 1px 1px 1px black;
-}
