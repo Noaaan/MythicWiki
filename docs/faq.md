@@ -33,7 +33,8 @@ For where ores spawn specifically, this will eventually make its way into the wi
 #### Related biome tags (technical stuff)
 
 - Overworld: spawns anywhere in the `#mythicmetals:mythic_ore_biomes` tag, which includes `#c:in_overworld`
-- Aquarium: spawns anywhere in the `#c:aquatic` tag
+- Aquarium: spawns anywhere in the `#mythicmetals:aquarium_biomes` tag, which includes `#c:is_aquatic`
+  - In older versions (below 0.20.2) this used to be only `#c:aquatic`
 - Prometheum: spawns anywhere in the `#mythicmetals:prometheum_biomes` tag, which includes `#minecraft:is_jungle`
 - Osmium: spawns anywhere in the `#mythicmetals:osmium_biomes` tag, which includes `#c:mountain` and `#c:extreme_hills`
 - The Nether and The End are currently not tag-driven, and simply uses Fabric API to insert into all relevant biomes. In the future this might be changed.
