@@ -128,7 +128,7 @@ nav:
 extra:
   alternate:
     - name: English
-      link: /en/
+      link: /
       lang: en
     - name: Ukrainian
       link: /uk/
