@@ -1,51 +1,185 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-         <loc>https://wiki.mythicmetals.dev/</loc>
-         <lastmod>2024-10-16</lastmod>
+        <loc>https://wiki.mythicmetals.com/</loc>
+        <lastmod>2024-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/"/>
     </url>
     <url>
-         <loc>https://wiki.mythicmetals.dev/faq/</loc>
-         <lastmod>2024-10-16</lastmod>
+        <loc>https://wiki.mythicmetals.com/faq/</loc>
+        <lastmod>2024-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/faq/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/faq/"/>
     </url>
     <url>
-         <loc>https://wiki.mythicmetals.dev/spec/</loc>
-         <lastmod>2024-10-16</lastmod>
+        <loc>https://wiki.mythicmetals.com/spec/</loc>
+        <lastmod>2024-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/spec/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/spec/"/>
     </url>
     <url>
-         <loc>https://wiki.mythicmetals.dev/armor/palladium/</loc>
-         <lastmod>2024-10-16</lastmod>
+        <loc>https://wiki.mythicmetals.com/armor/palladium/</loc>
+        <lastmod>2024-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/armor/palladium/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/armor/palladium/"/>
     </url>
     <url>
-         <loc>https://wiki.mythicmetals.dev/armor/stormyx/</loc>
-         <lastmod>2024-10-16</lastmod>
+        <loc>https://wiki.mythicmetals.com/armor/stormyx/</loc>
+        <lastmod>2024-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/armor/stormyx/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/armor/stormyx/"/>
     </url>
     <url>
-         <loc>https://wiki.mythicmetals.dev/equipment/banglum-nukes/</loc>
-         <lastmod>2024-10-16</lastmod>
+        <loc>https://wiki.mythicmetals.com/equipment/banglum-nukes/</loc>
+        <lastmod>2024-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/equipment/banglum-nukes/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/equipment/banglum-nukes/"/>
     </url>
     <url>
-         <loc>https://wiki.mythicmetals.dev/equipment/stormyx-shield/</loc>
-         <lastmod>2024-10-16</lastmod>
+        <loc>https://wiki.mythicmetals.com/equipment/kyber/</loc>
+        <lastmod>2024-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/equipment/kyber/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/equipment/kyber/"/>
     </url>
     <url>
-         <loc>https://wiki.mythicmetals.dev/equipment/stormyx/</loc>
-         <lastmod>2024-10-16</lastmod>
+        <loc>https://wiki.mythicmetals.com/equipment/stormyx-shield/</loc>
+        <lastmod>2024-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/equipment/stormyx-shield/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/equipment/stormyx-shield/"/>
     </url>
     <url>
-         <loc>https://wiki.mythicmetals.dev/materials/adamantite-ores/</loc>
-         <lastmod>2024-10-16</lastmod>
+        <loc>https://wiki.mythicmetals.com/equipment/stormyx/</loc>
+        <lastmod>2024-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/equipment/stormyx/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/equipment/stormyx/"/>
     </url>
     <url>
-         <loc>https://wiki.mythicmetals.dev/materials/rare-drops/</loc>
-         <lastmod>2024-10-16</lastmod>
+        <loc>https://wiki.mythicmetals.com/materials/adamantite-ores/</loc>
+        <lastmod>2024-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/adamantite-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/adamantite-ores/"/>
     </url>
     <url>
-         <loc>https://wiki.mythicmetals.dev/materials/stormyx-ores/</loc>
-         <lastmod>2024-10-16</lastmod>
+        <loc>https://wiki.mythicmetals.com/materials/rare-drops/</loc>
+        <lastmod>2024-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/rare-drops/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/rare-drops/"/>
     </url>
     <url>
-         <loc>https://wiki.mythicmetals.dev/materials/stormyx/</loc>
-         <lastmod>2024-10-16</lastmod>
+        <loc>https://wiki.mythicmetals.com/materials/stormyx-ores/</loc>
+        <lastmod>2024-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/stormyx-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/stormyx-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/materials/stormyx/</loc>
+        <lastmod>2024-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/stormyx/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/stormyx/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/uk/</loc>
+        <lastmod>2024-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/uk/faq/</loc>
+        <lastmod>2024-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/faq/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/uk/spec/</loc>
+        <lastmod>2024-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/spec/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/spec/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/uk/armor/palladium/</loc>
+        <lastmod>2024-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/armor/palladium/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/armor/palladium/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/uk/armor/stormyx/</loc>
+        <lastmod>2024-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/armor/stormyx/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/armor/stormyx/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/uk/equipment/banglum-nukes/</loc>
+        <lastmod>2024-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/equipment/banglum-nukes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/equipment/banglum-nukes/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/uk/equipment/kyber/</loc>
+        <lastmod>2024-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/equipment/kyber/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/equipment/kyber/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/uk/equipment/stormyx-shield/</loc>
+        <lastmod>2024-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/equipment/stormyx-shield/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/equipment/stormyx-shield/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/uk/equipment/stormyx/</loc>
+        <lastmod>2024-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/equipment/stormyx/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/equipment/stormyx/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/uk/materials/adamantite-ores/</loc>
+        <lastmod>2024-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/adamantite-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/adamantite-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/uk/materials/rare-drops/</loc>
+        <lastmod>2024-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/rare-drops/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/rare-drops/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/uk/materials/stormyx-ores/</loc>
+        <lastmod>2024-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/stormyx-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/stormyx-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/uk/materials/stormyx/</loc>
+        <lastmod>2024-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/stormyx/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/stormyx/"/>
     </url>
 </urlset>
