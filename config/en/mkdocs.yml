@@ -1,0 +1,143 @@
+site_name: Mythic Metals Wiki
+site_url: https://wiki.mythicmetals.com
+docs_dir: '../../docs/en'
+site_dir: '../../generated/en'
+
+copyright: "Documentation by <a style=\"color: #13A6F0;\" href=\"https://github.com/Noaaan\">Noaaan</a>, with assistance from <a style=\"color: #13A6F0;\" href=\"https://github.com/gliscowo\">glisco</a>, the Wisp Forest team, and the Wraith Coding Sesh crew"
+
+nav:
+    - Home: index.md
+    - FAQ: faq.md
+    - Armor:
+        - armor/palladium.md
+        - armor/stormyx.md
+    - Equipment:
+        - equipment/banglum-nukes.md
+        - equipment/kyber.md
+        - equipment/stormyx.md
+        - equipment/stormyx-shield.md
+    - Ores and Materials:
+        - materials/adamantite-ores.md
+        - materials/stormyx.md
+        - materials/stormyx-ores.md
+        - materials/rare-drops.md
+    - Specification:
+        - spec.md
+
+theme:
+    name: material
+    custom_dir: ../../mkdocs-material/material
+    palette:
+        - scheme: slate
+          primary: deep-purple
+          accent: purple
+          toggle:
+            icon: material/brightness-4
+            name: Switch to light mode
+
+        - scheme: default
+          primary: deep-purple
+          accent: purple
+          toggle:
+            icon: material/brightness-7
+            name: Switch to dark mode
+    features:
+        - navigation.tabs
+        - navigation.indexes
+        - navigation.expand
+        - search.suggest
+        - search.share
+        - navigation.top
+        - content.tooltips
+    favicon: assets/favicon.png
+    icon:
+      logo: octicons/ruby-24
+    font:
+        text: Fira Sans
+        code: Fira Mono
+    language: en
+
+extra_css:
+    - ../../assets/overrides.css
+
+plugins:
+  - search
+  - git-revision-date-localized:
+      type: timeago
+  - mkdocs-video:
+      video_autoplay: True
+
+markdown_extensions:
+    - abbr
+    - admonition
+    - attr_list
+    - pymdownx.tasklist:
+        custom_checkbox: true
+    - pymdownx.details
+    - pymdownx.keys
+    - pymdownx.arithmatex:
+        generic: true
+    - pymdownx.highlight:
+        anchor_linenums: true
+    - pymdownx.inlinehilite
+    - pymdownx.snippets
+    - footnotes
+    - pymdownx.superfences:
+        custom_fences:
+          - name: mermaid
+            class: mermaid
+            format: !!python/name:pymdownx.superfences.fence_code_format
+    - pymdownx.tabbed:
+        alternate_style: true
+    - toc:
+        permalink: true
+    - pymdownx.emoji:
+        emoji_index: !!python/name:material.extensions.emoji.twemoji
+        emoji_generator: !!python/name:material.extensions.emoji.to_svg
+    - pymdownx.tilde
+    - pymdownx.critic
+
+nav:
+    - Home: index.md
+    - FAQ: faq.md
+    - Armor:
+        - armor/palladium.md
+        - armor/stormyx.md
+    - Equipment:
+        - equipment/banglum-nukes.md
+        - equipment/kyber.md
+        - equipment/stormyx.md
+        - equipment/stormyx-shield.md
+    - Ores and Materials:
+        - materials/adamantite-ores.md
+        - materials/stormyx.md
+        - materials/stormyx-ores.md
+        - materials/rare-drops.md
+    - Specification:
+        - spec.md
+
+extra:
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
+    - name: Ukrainian
+      link: /uk/
+      lang: uk
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.com/invite/69cKvQWScC
+    - icon: fontawesome/brands/github
+      link: https://github.com/Noaaan
+  projects:
+      mythicmetals:
+          repo: https://github.com/Noaaan/MythicMetals
+          name: Mythic Metals
+          icon: owo.png
+      mythicmetalsdecorations:
+          repo: https://github.com/Noaaan/MythicMetalsDecorations
+          name: Mythic Metals Decorations
+          icon: owo.png
+      docs:
+          repo: https://github.com/Noaaan/MythicWiki
+          name: Mythic Metals Wiki
