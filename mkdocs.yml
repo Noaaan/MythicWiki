@@ -1,7 +1,7 @@
 site_name: Mythic Metals Wiki
 site_url: https://wiki.mythicmetals.com
-docs_dir: '../../docs/en'
-site_dir: '../../generated/en'
+docs_dir: 'docs'
+site_dir: 'generated'
 
 copyright: "Documentation by <a style=\"color: #13A6F0;\" href=\"https://github.com/Noaaan\">Noaaan</a>, with assistance from <a style=\"color: #13A6F0;\" href=\"https://github.com/gliscowo\">glisco</a>, the Wisp Forest team, and the Wraith Coding Sesh crew"
 
@@ -26,7 +26,7 @@ nav:
 
 theme:
     name: material
-    custom_dir: ../../mkdocs-material/material
+    custom_dir: mkdocs-material/material
     palette:
         - scheme: slate
           primary: deep-purple
@@ -58,14 +58,24 @@ theme:
     language: en
 
 extra_css:
-    - ../../assets/overrides.css
+    - assets/overrides.css
 
 plugins:
   - search
-  - git-revision-date-localized:
-      type: timeago
   - mkdocs-video:
       video_autoplay: True
+  - i18n:
+      docs_structure: folder
+      languages:
+        - locale: en
+          default: true
+          build: true
+          name: English
+        - locale: uk
+          build: true
+          name: Український
+  - git-revision-date-localized:
+      type: timeago
 
 markdown_extensions:
     - abbr

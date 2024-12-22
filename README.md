@@ -17,7 +17,7 @@ If you want to make larger contributions, you will have to clone recursively via
 For building against the theme you need to install MkDocs via Pip (Python). To get started simply run the following:
 
 ```bash
-pip install mkdocs-material mkdocs-git-revision-date-localized-plugin mkdocs-video
+pip install mkdocs-material mkdocs-git-revision-date-localized-plugin mkdocs-video mkdocs-static-i18n[material]
 ```
 
 To serve the documentation, go to the config directory of your desired language and run the serve command:
