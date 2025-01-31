@@ -70,15 +70,14 @@ plugins:
   # See https://ultrabug.github.io/mkdocs-static-i18n/getting-started/quick-start/ for more information.
       docs_structure: folder
       languages:
-        # - locale: en
-        #   default: true
-        #   name: English
-        #   build: true
-        # - locale: uk
-        #   name: Український
-        #   build: true
-        - locale: zh
+        - locale: en
           default: true
+          name: English
+          build: true
+        - locale: uk
+          name: Український
+          build: true
+        - locale: zh
           name: 中文
           build: true
           nav_translations:
@@ -123,14 +122,14 @@ markdown_extensions:
 
 extra:
   alternate:
-    # - name: English
-    #   link: /
-    #   lang: en
-    # - name: Ukrainian
-    #   link: /uk/
-    #   lang: uk
-    - name: Chinese
+    - name: English
       link: /
+      lang: en
+    - name: Ukrainian
+      link: /uk/
+      lang: uk
+    - name: Chinese
+      link: /zh/
       lang: zh
   social:
     - icon: fontawesome/brands/discord
