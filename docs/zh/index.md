@@ -4,8 +4,6 @@ project: docs
 summary: The Official Mythic Metals Wiki
 ---
 
-**TODO - Ця сторінка не була перекладена
-
 # Welcome to the Work In Progress Mythic Metals Wiki
 
 ## :material-account: For Users

@@ -27,6 +27,7 @@
     +3.5 Attack Damage, 5.0 Attack Speed<br>
     889 Durability<br>
 
+
 ![Image of the recipe for Kyber Sword](../../assets/mythicmetals/recipes/tools/kyber_sword.png){ .sized-recipe style="--image-width: 40%;" }<br>
 ![Image of the recipe for Kyber Axe](../../assets/mythicmetals/recipes/tools/kyber_axe.png){ .sized-recipe style="--image-width: 40%;" }<br>
 ![Image of the recipe for Kyber Pickaxe](../../assets/mythicmetals/recipes/tools/kyber_pickaxe.png){ .sized-recipe style="--image-width: 40%;" }<br>

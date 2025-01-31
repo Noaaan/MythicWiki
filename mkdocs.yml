@@ -2,6 +2,7 @@ site_name: Mythic Metals Wiki
 site_url: https://wiki.mythicmetals.com
 docs_dir: 'docs'
 
+
 copyright: "Documentation by <a style=\"color: #13A6F0;\" href=\"https://github.com/Noaaan\">Noaaan</a>, with assistance from <a style=\"color: #13A6F0;\" href=\"https://github.com/gliscowo\">glisco</a>, the Wisp Forest team, and the Wraith Coding Sesh crew"
 
 nav:
@@ -64,15 +65,20 @@ plugins:
   - mkdocs-video:
       video_autoplay: True
   - i18n:
+  # This i18n config structure requires mkdocs-static-i18n of version 1.0.0 or higher.
+  # See https://ultrabug.github.io/mkdocs-static-i18n/getting-started/quick-start/ for more information.
       docs_structure: folder
       languages:
         - locale: en
           default: true
-          build: true
           name: English
-        - locale: uk
           build: true
-          name: Український
+        # - locale: uk
+        #   name: Український
+        #   build: true
+        # - locale: zh
+        #   name: 中文
+        #   build: true
   - git-revision-date-localized:
       type: timeago
 
@@ -106,33 +112,17 @@ markdown_extensions:
     - pymdownx.tilde
     - pymdownx.critic
 
-nav:
-    - Home: index.md
-    - FAQ: faq.md
-    - Armor:
-        - armor/palladium.md
-        - armor/stormyx.md
-    - Equipment:
-        - equipment/banglum-nukes.md
-        - equipment/kyber.md
-        - equipment/stormyx.md
-        - equipment/stormyx-shield.md
-    - Ores and Materials:
-        - materials/adamantite-ores.md
-        - materials/stormyx.md
-        - materials/stormyx-ores.md
-        - materials/rare-drops.md
-    - Specification:
-        - spec.md
-
 extra:
   alternate:
     - name: English
       link: /
       lang: en
-    - name: Ukrainian
-      link: /uk/
-      lang: uk
+    # - name: Ukrainian
+    #   link: /uk/
+    #   lang: uk
+    # - name: Chinese
+    #   link: /zh/
+    #   lang: zh
   social:
     - icon: fontawesome/brands/discord
       link: https://discord.com/invite/69cKvQWScC
