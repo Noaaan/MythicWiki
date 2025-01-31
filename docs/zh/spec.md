@@ -1,63 +1,64 @@
 ---
-title: Specification
+title: 规格说明
 project: mythicmetals
 ---
 
-# Specification
-This page will (eventually) contain the common elements used for this wiki. Things like infobox (admonition) templates, header structure, formatting, style guides, etc.
+# 规格说明
 
-## Motivation
-For the longest time I have wanted to write an actual wiki for Mythic Metals.
+此页面将（终于）包含用于本 Wiki 的常见元素，如信息框（警告）模板、标题结构、格式、样式指南等。
 
-A little bit of context: I play a lot of RPGs and MMORPGs[^1]. When I play these, I expect a good wiki to provide clear, structurized and detailed information about whatever topic I am looking for. 
+## 写作动机
 
-There are multiple examples on great wikis out there. Some of the wikis I currently enjoy reading are the [Hypixel Skyblock Wiki](https://wiki.hypixel.net), the [Old School RuneScape Wiki](https://os.rs.wiki), and of course, the [Minecraft Wiki](https://minecraft.wiki) All of them (with a tiny exception for the officially supported RuneScape Wiki) are driven entirely by the community, and the extent of the documentation just goes to show how deep the love for the games go. 
+很长一段时间以来，我一直想为 Mythic Metals 编写一个真正的 Wiki。
 
-Most of them use Fandom (MediaWiki) as their base. I really like this structure, but for Fandom specifically I do not like the advertisements placed all across the page, they are really intrusive. That is why I decided I wanted to self-host the wiki in some way. I already have some experience working on the Wisp Forest docs, and with the open-source nature of the Mythic Metals project, and my studies related to programming in all forms, I am therefore able to serve a wiki like this. 
+一点点背景信息：我玩了很多 RPG 和 MMORPG[^1]。在玩这些游戏时，我希望一个好的 Wiki 能够提供清晰、结构化和详细的信息，帮助我了解我正在寻找的任何话题。
 
-An interesting development has taken place as of writing, where more and more people are moving to more independent wiki pages. Hypixel moved to the Official Hypixel Wiki, and the Minecraft Wiki moved away from Fandom fairly recently. The links were therefore updated accordingly.
+市面上有多个优秀的 Wiki。以下是我目前喜欢阅读的一些 Wiki：[Hypixel Skyblock Wiki](https://wiki.hypixel.net)、[Old School RuneScape Wiki](https://os.rs.wiki)，当然还有 [Minecraft Wiki](https://minecraft.wiki)。这些 Wiki（除了官方支持的 RuneScape Wiki）完全由社区驱动，文档的广度也显示了玩家对游戏的热爱。
 
-Currently the best way to gain information is through the GitHub wiki, the [Discord Server](https://discord.com/invite/69cKvQWScC), or the few guides on YouTube that have surfaced after a long period of time[^2]. In terms of the Discord Server: since you get to ask me directly, or perhaps you find one of the many handy pins in the `#mythic-metals` channel, you relatively quickly learn about what you want to know. I am not going to close down the Discord server after completing this wiki, but linking to it makes it faster to answer the same questions again and again. Some of the repetitive questions that I often receive are on how old and new features work, what ore height-ranges are, material statistics, and crafting recipes. All of these are easily solvable with a few blurbs of text and an image or two. 
+它们中的大多数使用 Fandom（MediaWiki）作为基础。我非常喜欢这种结构，但对于Fandom来说，我不喜欢页面上到处都是广告，这些广告非常干扰体验。因此，我决定自己托管这个 Wiki。我已经有一些处理 Wisp Forest 文档的经验，加上 Mythic Metals 项目本身是开源的，以及我在编程方面的学习经验，使得我能够为这个 Wiki 提供支持。
 
-## Admonitions
+最近有一个有趣的发展，越来越多的人开始转向更加独立的 Wiki 页面。Hypixel 转向了官方的 Hypixel Wiki，Minecraft Wiki 也在不久前脱离了Fandom。因此，相关链接已经更新。
+
+目前，获取信息的最佳方式是通过 GitHub Wiki、[Discord 服务器](https://discord.com/invite/69cKvQWScC)或一些经过长时间积累后在 YouTube 上出现的指南[^2]。关于 Discord 服务器：因为你可以直接向我提问，或者你可能会找到许多在 `#mythic-metals` 频道中的有用置顶信息，所以你可以相对快速地了解你想知道的内容。在完成这个 Wiki 后，我不会关闭 Discord 服务器，但通过链接到它，可以更快地回答重复性问题。我经常收到的重复问题包括：旧版和新版功能如何工作、矿石高度范围、材料统计数据以及合成配方。所有这些都可以通过一些简短的文字和一两张图片轻松解答。
+
+## 警告
+
 !!! info inline end ""
-    <center>**Stormyx**<br>
-    ![Image of a Stormyx Ingot, a mainly pink ingot with a blue accent/border](/assets/favicon.png)<br>
-    Can be made into tools and armor<br><br>
-    Tool Durability = 1305<br><br>
-    Helmet = 
-    ![armor](/assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
-    ![armor](/assets/icon/half_armor_icon.png){ .sized-image style="--image-width: 8%;" }
-    (3), 360 durability<br>
-    Chestplate =
-    ![armor](/assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
-    ![armor](/assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
-    ![armor](/assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
-    ![armor](/assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
-    (8), 480 durability<br>
-    Leggings = 
-    ![armor](/assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
-    ![armor](/assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
-    ![armor](/assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
-    (6), 450 durability<br>
-    Boots = 
-    ![armor](/assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
-    ![armor](/assets/icon/half_armor_icon.png){ .sized-image style="--image-width: 8%;" }
-    (3), 390 durability<br><br>
+    <center>**飓霆矿石**<br>
+    ![Image of a Stormyx Ingot, a mainly pink ingot with a blue accent/border](../assets/favicon.png)<br>
+    可以用于制造工具和盔甲<br><br>
+    总耐久度 = 1305<br><br>
+    头盔 =
+    ![armor](../assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
+    ![armor](../assets/icon/half_armor_icon.png){ .sized-image style="--image-width: 8%;" }
+    (3), 360 耐久度<br>
+    胸甲 =
+    ![armor](../assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
+    ![armor](../assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
+    ![armor](../assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
+    ![armor](../assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
+    (8), 480 耐久度<br>
+    护腿 =
+    ![armor](../assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
+    ![armor](../assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
+    ![armor](../assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
+    (6), 450 耐久度<br>
+    靴子 =
+    ![armor](../assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
+    ![armor](../assets/icon/half_armor_icon.png){ .sized-image style="--image-width: 8%;" }
+    (3), 390 耐久度<br><br>
     ---
-    *Ability - Magic Protection:* <br>
-    Flat magic damage reduction by X points.<br>
+    *能力 - 魔法保护：* <br>
+    固定减少 X 点魔法伤害。<br>
     <br>
     ---
-    *Ability - Divine Judgement:* <br>
-    Assimilate an undead if they are below 10% health.<br>
+    *能力 - 神圣审判：* <br>
+    如果亡灵生物的生命值低于 10%，就将其同化。<br>
     </center>
 
-There is some text here
+如果你查看动机部分提到的任何 Wiki，并查看任何类型的武器，你通常会发现一个*附注*，其中包含一个简短的概述，列出了其核心属性。我也想为大多数 Mythic Metals 的材料做类似的事情，尽管目前我还不确定具体要怎么做。
 
-If you look at any of the wikis in the motivation section, and look at any sort of weapon, you will often find an *aside*, serving an infobox with a quick summary of its core stats. I want to do something similar with most of the Mythic Metals materials, though for now I simply do not know how *exactly* I want to do it.
+此页面将展示这些内容的示例。一旦我决定了一个合适的格式，这里将反映 Wiki 中所有信息框的所需格式。
 
-This page will contain examples of what those would look like. Once I have decided on a good format, this will instead reflect the required format of all infoboxes on the Wiki. 
-
-[^1]: *As some of you might know from the Midas Gold video: [https://youtube.com/watch?v=O8Y_bCJM6w4](https://youtube.com/watch?v=O8Y_bCJM6w4)*
-[^2]: *I am not going to self plug again. yorkmouse made a great video giving a quick explanation on each material: [https://www.youtube.com/watch?v=0xu72euIlQ8](https://www.youtube.com/watch?v=0xu72euIlQ8)*
+[^1]: *正如你们中的一些人可能从迈达斯金的视频中了解到的那样： [https://youtube.com/watch?v=O8Y_bCJM6w4](https://youtube.com/watch?v=O8Y_bCJM6w4)*
+[^2]: *我不打算再做自我推销了，yorkmouse 制作了一个很棒的视频，快速解释了每种材料的特点： [https://www.youtube.com/watch?v=0xu72euIlQ8](https://www.youtube.com/watch?v=0xu72euIlQ8)*

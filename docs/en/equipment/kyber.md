@@ -1,3 +1,8 @@
+---
+title: Kyber
+project: mythicmetals
+summary: A summary of the Kyber tools.
+---
 
 !!! info inline end ""
     <center class=tooltip>

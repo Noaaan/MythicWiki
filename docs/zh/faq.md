@@ -1,180 +1,202 @@
 ---
-title: FAQ
+title: 常见问题解答
 project: docs
-summary: Answers for the most frequently asked Mythic Metals questions
+summary: 关于神话金属最常被问到的问题的答案
 ---
 
-# Frequently Asked Questions and Answers
+# 常见问题解答
 
-## Is there a guide for this mod?
-Read the advancements. They contain tons of detailed information about what materials are interesting, as well as recipes for alloys.
-Note that two of the advancement have Alloy Forgery Forge Controllers in them. These are direct hints in what Tier you need to forge the specific alloys. 
+## 本模组有引导吗？
 
-## How do I make alloys?
-[Create an Alloy Forge.](https://modrinth.com/mod/alloy-forgery) In a general unmodified Mythic Metals context a Tier 2 Forge can create any alloy. 
+请阅读游戏中的进展页面，其中包含大量有关哪些材料有趣的详细信息，还有合金配方。请注意，其中有两个成就涉及合金冶炼炉，它们直接提示了你需要使用哪个等级的冶炼炉来锻造特定的合金。
 
-## How do I craft X?
-All recipes follow vanilla patterns. For example when crafting a pickaxe follow the pickaxe pattern (i.e. 3 stone and two sticks), or use the [associating smithing template](#where-can-i-find-smithing-templates). 
+## 我应当如何制造合金？
 
-The rest, including **Alloy Recipes**, can be viewed using recipe viewers like [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items) or [EMI](https://modrinth.com/mod/emi). As of writing Just Enough Items (JEI) is not supported. 
+[建造一个冶炼炉](https://modrinth.com/mod/alloy-forgery) 在未作任何修改的一般神话金属设定中，二级冶炼炉可以制造任何合金。
 
-## Where can I find X?
-Most of the ores spawn in the Overworld, some spawn in The Nether. End Stone Starrite spawns in The End.
-There are some biome-exclusive ores, listed here:
+## 我应当如何制作 xxx？
 
-- Aquarium: Spawns in Aquatic Biomes, like Rivers and Oceans
-- Prometheum: Spawns in Warm Biomes, like Lush Caves, or Jungles
-- Osmium: Spawns in Mountains
+所有配方遵循原版模式。例如，制作镐时按照镐的配方（即 3 个石块和 2 根木棍），或者使用[关联的锻造模板](#_11)。
 
-For where ores spawn specifically, this will eventually make its way into the wiki in the Material section. For now you can enjoy this chart made by Mkat420 (yes, it is still *mostly* accurate)
+其余的配方（包括合金配方）可以通过像 [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items) 或 [EMI](https://modrinth.com/mod/emi) 这样的配方查看器查看。截止目前，Just Enough Items (JEI) 不支持查看这些配方。
 
-![chart displaying the various ore heights for all the ores in mythic metals](./assets/ore-chart-zero-fifteen-plus.png)
+## 我可以在哪里找到 xxx？
 
-### Related biome tags (technical stuff)
+大多数矿石生成在主世界，部分矿石生成在地狱。末地星辰矿石生成在末地。还有一些仅在特定生物群系中生成的矿石，如下所示：
 
-- Overworld: spawns anywhere in the `#mythicmetals:mythic_ore_biomes` tag, which includes `#c:in_overworld`
-- Aquarium: spawns anywhere in the `#mythicmetals:aquarium_biomes` tag, which includes `#c:is_aquatic`
-  - In older versions (below 0.20.2) this used to be only `#c:aquatic`
-- Prometheum: spawns anywhere in the `#mythicmetals:prometheum_biomes` tag, which includes `#minecraft:is_jungle`
-- Osmium: spawns anywhere in the `#mythicmetals:osmium_biomes` tag, which includes `#c:mountain` and `#c:extreme_hills`
-- The Nether and The End are currently not tag-driven, and simply uses Fabric API to insert into all relevant biomes. In the future this might be changed.
+- 激水矿石：生成于水域生物群系，如河流和海洋。
+- 钷矿石：生成于温暖生物群系，如繁茂洞穴和丛林。
+- 锇矿石：生成于山地。
 
-## Can I mine this?
+关于矿石的具体生成位置，未来将在 Wik i的**材料**板块添加详细信息。目前，你可以参考由 Mkat420 制作的这张图表（是的，它仍然*大致*准确）。
 
-Mythic Metals follows the vanilla progression closely. 
-As a rule of thumb: Once you get a Netherite Pickaxe you can mine any ore in the mod.
-There are however **multiple pickaxes in the mod that also have this mining level**.
-As of writing the following pickaxes have this mining level:
+![chart displaying the various ore heights for all the ores in mythic metals](../assets/ore-chart-zero-fifteen-plus.png)
 
-- Hallowed
-- Adamantite
-- Mythril
-- Orichalcum
-- Palladium
-- Star Platinum
+### 相关生物群系标签（技术性内容）
 
-Once the wiki is complete, it will contain information on which mining levels *tools have*, and what mining levels *ores require*.  
+- 主世界：在标签为 `#mythicmetals:mythic_ore_biomes` 的生物群系中生成，该标签包含 `#c:in_overworld`。
+- 激水矿石：在标签为 `#mythicmetals:aquarium_biomes` 的生物群系中生成，该标签包含 `#c:is_aquatic`。
+  - 在旧版本（0.20.2 以下）中，仅包含 `#c:aquatic`。
+- 钷矿石：在标签为 `#mythicmetals:prometheum_biomes` 的生物群系中生成，该标签包含 `#minecraft:is_jungle`。
+- 锇矿石：在标签为 `#mythicmetals:osmium_biomes` 的生物群系中生成，该标签包含 `#c:mountain` 和 `#c:extreme_hills`。
+- 目前，下界和末地的矿石生成并未通过标签控制，而是简单地使用 Fabric API 插入到所有相关生物群系中。未来可能会对此进行更改。
 
+## 我能挖掘这个吗？
 
-## What does X material do?
-This one will eventually be answered once the Material section is filled out. For now you can see the following subquestions:
+神话金属与原版的进度设定较为接近。一般来说，一旦你获得了**下界合金镐**，你就可以开采模组中的任何矿石。不过，模组中还有**多个镐也具备相同的挖掘等级**。截至目前，以下镐具有该挖掘等级：
 
-### How does Branding work?
-You apply the Heat status effect to your targets by hitting them with a Palladium tool, and once they are hot enough light them on fire to make them combust!
-This heavily increases the fire damage and duration of their burn. Use this to your advantage in places where water is scarce (or simply drain the nearby water).
-The way this works is that the effect applies Fire Vulnerability. An extra effect of this is that Fire Resistance will not make you fully immune against burning, only reducing the damage.
+- 神圣镐
+- 精金镐
+- 秘银稿
+- 山铜镐
+- 钯金镐
+- 星辰铂金镐
 
-### How do the Prometheum abilities work?
+一旦 Wiki 完善后，它将包含关于**工具的挖掘等级**以及**矿石所需的挖掘等级**的详细信息。
 
-#### Regrowth
+## xxx 材料是干什么的？
 
-Prometheum equipment with this ability will automatically repair itself while in your inventory or equipped.
+这个问题将在材料部分填充完整后得到解答。目前，你可以参考以下子问题：
 
-In older versions of the mod (below 0.20.0), the effect was the following: 
+### 烙印是如何工作的？
 
-- For armor, it must be equipped for this to take effect
-- For tools, it must be in your main hand or off hand to repair itself
+你可以使用钯金工具攻击目标，使其获得热量状态效果，当目标足够炽热时再点燃它们，使其燃烧爆裂！这样会大幅增加火焰伤害并延长燃烧时间。在缺乏水源的地方，你可以利用这一机制（或者直接排干附近的水）。
 
-#### Overgrown
+这个机制的运作方式是将火焰易伤效果应用到目标身上。额外的影响是，即使目标拥有火焰抗性，它们仍然无法完全免疫燃烧，只能减少部分伤害。
 
-Regrowth will track how much durability has been restored. Once you hit a threshold of durability regained, the armor will gain additional stats. The Regrowth self-repair effect will also increase when Overgrown.
+### 钷矿石的能力是如何生效的？
 
-In the latest versions (0.20.0 and above), the thresholds are the following:
+#### 可再生
 
-- At 1200 durability repaired, tools gain +1 damage. Armor gains +1 armor and armor toughness. 
-- At 2400 durability repaired, the bonuses above increase to the following:
-  - +2 damage for tools
-  - +2 armor & toughness for armor
+具有此能力的钷装备将在其位于背包中或装备时自动修复自身。
 
-In the older versions, the thresholds looks like this:
+在该模组的旧版本（低于 0.20.0 版）中，效果如下：
 
-- From 0.19.5 to 0.19.9, the double threshold was added to tools only. 
-- In 0.19.4 and below this double threshold did not exist.
-- In 0.18.2 and below, the threshold was 2000 durability.
+- 对于护甲而言，需要将其装备在身上才能生效。
+- 对于工具而言，必须将其放在主手或副手中才能生效。
 
-#### Engrained
+#### 草木丛生
 
-If you apply Curse of Binding on the Armor, it will gain additional stats (+1 toughness and +8% attack speed per piece), as well as an increase on the Regrowth effect.
+再生机制会追踪装备已恢复的耐久值。当耐久恢复量达到一定阈值时，护甲将获得额外属性。此外，当装备进入草木丛生状态时，再生的自我修复效果也会增强。
 
-## Where can I find Smithing Templates?
-Here are the directions of how to obtain the Smithing Tables (up-to-date as of 0.18.2):
+在最新版本（0.20.0 及以上）中，阈值如下：
 
-- Unobtainium Alloy Upgrade
-    - Found in Ancient Cities
-    - Allows you to craft Metallurgium and Celestium Gear from Netherite and Diamond respectively
-    - Can be duplicated with Diamonds and Deepslate
-- Royal Midas Gold Sword Upgrade
-    - Rarely found when bartering with Piglins using Midas Gold
-    - Allows you to upgrade a maxed Gilded Midas Gold Sword into its final form...
-    - Can be duplicated with Diamonds and Deepslate
-- Mythril Drill Upgrade
-    - Found in Mineshafts
-    - Upgrades a Mythril Pickaxe, using a Durasteel engine, into a Mythril Drill
-    - Can be duplicated with Diamonds and Deepslate
-- Midas Gold Folding
-    - Crafted in the crafting table using Midas Gold and Netherrack
-    - Used to increase the gold counter on any Midas Gold Swords by 1
-    - Can be duplicated for nuggets once you have made one
+- 修复 1200 点耐久后，工具 +1 伤害，护甲 +1 护甲值，+1 护甲韧性。
+- 修复 2400 点耐久后，工具 +2 伤害，护甲 +2 护甲值，+2 护甲韧性。
+
+在旧版本中，阈值如下：
+
+- 0.19.5 - 0.19.9：双重阈值（2400 点）仅适用于工具。
+- 0.19.4 及更早版本：未添加双重阈值机制。
+- 0.18.2及更早版本：唯一的阈值为 2000 点耐久。
+
+#### 根深蒂固
+
+如果在护甲上附加绑定诅咒，它将获得额外属性（每件 +1 护甲韧性，+8% 攻击速度），并且再生效果也会得到增强。
+
+## 我能在哪里找到锻造模板？
+
 - Carmot Staff
-    - Found in Village Temple chests. In vanilla this only spawns in Desert Village Temples
-    - Not to be confused with Desert Temples, which resemble pyramids. The structure you are looking for is more like a small sandstone castle
-    - Can be duplicated with Diamonds and Smooth Basalt
+  - Found in Village Temple chests. In vanilla this only spawns in Desert Village Temples
+  - Not to be confused with Desert Temples, which resemble pyramids. The structure you are looking for is more like a small sandstone castle
+  - Can be duplicated with Diamonds and Smooth Basalt
 - Carmot Upgrade
-    - Crafted from Carmot, Diamonds, and Smooth Basalt
-    - Upgrades Kyber Gear into its Carmot equivalent
-    - Can be duplicated using Carmot, Smooth Basalt, and Carmot Nuggets
+  - Crafted from Carmot, Diamonds, and Smooth Basalt
+  - Upgrades Kyber Gear into its Carmot equivalent
+  - Can be duplicated using Carmot, Smooth Basalt, and Carmot Nuggets
 - Legendary Banglum Upgrade
-    - Crafted from Banglum Ingots and Tuff
-    - Upgrades Banglum Gear to its Legendary variant using a Banglum Chunk
+  - Crafted from Banglum Ingots and Tuff
+  - Upgrades Banglum Gear to its Legendary variant using a Banglum Chunk
 - Aegis Sword Upgrade
-    - Obtained from trading with Villagers, specifically Master level Clerics
-    - Can upgrade a Palladium Sword to the Blade of the Aegis
-    - Can upgrade a Hallowed Sword to the Sword of the Aegis
+  - Obtained from trading with Villagers, specifically Master level Clerics
+  - Can upgrade a Palladium Sword to the Blade of the Aegis
+  - Can upgrade a Hallowed Sword to the Sword of the Aegis
 
-## How do I upgrade a Mythril Drill?
-Any item with the tooltip "Mythril Drill Upgrade" should be insertable in the Mythril Drill. Simply right click the upgrade item onto the drill to insert it. A video example is below. This is the same mechanics as the [Bundle](https://minecraft.wiki/w/Bundle) uses. 
-![type:video](./assets/video/upgrade-drill-howto.mp4)
+以下是如何获得锻造台的详细指南（截至 0.18.2 版本）：
 
-For the available list of Drill Upgrades, see the following table:
+- 叵得合金升级
+  - 可在远古城市中找到
+  - 允许你分别使用下界合金和钻石锻造炼金和倚天装备
+  - 可用钻石和深板岩复制
+- 皇家迈达斯金剑升级
+  - 偶尔可以在使用迈达斯金与猪灵交易时获得
+  - 允许你将满级的镀金迈达斯金剑升级为最终形态
+  - 可用钻石和深板岩复制
+- 秘银钻头升级
+  - 可在矿井中找到
+  - 使用韧钢引擎将秘银镐升级为秘银钻头
+  - 可用钻石和深板岩复制
+- 迈达斯金叠
+  - 使用迈达斯金和地狱岩在工作台上合成
+  - 用于将任意迈达斯金剑的金量增加 1
+  - 合成后可以用金粒复制
+- 点金石权杖
+  - 可在村庄教堂的箱子中找到。在原版中，这只会出现在沙漠村庄教堂中
+  - 不要与沙漠神庙混淆，后者像金字塔。你要找的是类似小型砂岩城堡的结构
+  - 可用钻石和光滑玄武岩复制
+- 点金石升级
+  - 使用点金石、钻石和光滑玄武岩合成
+  - 将凯伯装备升级为对应的点金石装备
+  - 可使用点金石、光滑玄武岩和点金石粒复制
+- 传奇聚爆石
+  - 使用聚爆石锭和凝灰石合成
+  - 使用聚爆石碎片将聚爆石装备升级为其传奇形态
+- 庇剑升级
+  - 通过与村民交换获得，特别是大师级牧师
+  - 可以将钯金剑升级为赤庇剑
+  - 可以将神圣剑升级为素庇剑
 
-| Method      | Description                          | Relevant versions   |
-| :---------: | :----------------------------------: | :---:               |
-| Enchanted Midas Gold Block | Golden Luck - Gives you +2 Luck while holding the drill, and randomly drops raw gold when breaking an ore.  | 0.18.0+ |
-| Prometheum Bouquet | Slowly repairs the durability of the drill. | 0.18.0+ |
-| Aquarium Pearl | Aqua Affinity - Increases your mining speed underwater, and restores a small amount of air when breaking an ore.  | 0.17.0+ |
-| Stormyx Shell | Banglum Defuser - Drastically reduces the chance of Banglum exploding. | 0.17.0+ |
-| Carmot Stone | +1 Fortune - Increases the level of Fortune on your drill by one level. | 0.18.0+ |
+## 我应当如何升级秘银钻头？
 
-## How much Midas Gold can you fold onto a Midas Gold Sword?
-I don't remember the exact amount. It stops getting new stats after 20 stacks of blocks, *I think...*
+Any item with the tooltip "Mythril Drill Upgrade" should be insertable in the Mythril Drill. Simply right click the upgrade item onto the drill to insert it. A video example is below. This is the same mechanics as the [Bundle](https://minecraft.wiki/w/Bundle) uses.
 
-## What blocks can I put into the Carmot Staff?
-Literally anything inside the vanilla Minecraft and Mythic Metals. You cannot put a used Shulker Box though, as you would void your items doing so.
+任何带有工具提示“用钻头升级”的物品都应该可以插入到秘银钻头中。只需右键点击升级物品即可将其插入钻机。下面是一个视频示例。这个机制与[收纳袋](https://minecraft.wiki/w/Bundle)的使用方式相同。
 
-Any Blocks in the `#mythicmetals:carmot_staff_blocks` are considered unique, and have an associated effect. See the following table:
+![type:video](../assets/video/upgrade-drill-howto.mp4)
 
-| Block       | Description                                                                     | Relevant Versions|
-| :---------: | :-----------------------------------------------------------------------------: | :--------------: |
-| Iron | Fling opponents up, makes the staff stronger.                                          | 0.14.0+          |
-| Gold | Grant yourself luck for two minutes.                                                   | 0.14.0+          |
-| Copper | Summon lightning on yourself.                                                        | 0.14.0+          |
-| Diamond | Makes the staff stronger.                                                           | 0.14.0+          |
-| Bronze | Smite whoever you strike with lightning.                                             | 0.14.0+          |
-| Netherite | Powerful melee weapon, makes the staff much stronger.                             | 0.14.0+          |
-| Metallurgium | Highest single hit damage in the entire mod, but extremely slow.               | 0.14.0+          |
-| Carmot | Heals you and everything around you for 10 points (5 hearts) of health.              | 0.14.2+          |
-| Midas Gold | Grants you and everyone around you Luck 2 for four minutes.                      | 0.14.2+          |
-| Runite | Barrages your enemies in ice, freezing them in place.                                | 0.14.2 to 0.16.4 |
-| Star Platinum | Lets you swing the staff really fast.                                         | 0.14.2+          |
-| Beacon | Grants players in a large radius (18 blocks) a random beacon effect for 30 seconds.  | 0.14.2+          |
-| Lapis | Grants more experience to the user while being held.                                  | 0.14.2+          |
-| Stormyx | Creates a forcefield while holding that reflects projectiles.                       | 0.16.0+          |
-| Sponge | Removes water in a 12 block radius.                                                  | 0.17.0+          |
-| Hallowed | Makes the staff much stronger.                                                     | 0.17.0+          |
+有关可用的钻头升级列表，请参阅以下表格：
+
+| 方法     | 描述                          |   相关版本   |
+| :---------: | :----------------------------------  | :---:               |
+| 附魔迈达斯金块 | 黄金运气 - 持有钻头时幸运值 +2，破坏矿石时会随机掉落粗金。 | 0.18.0+ |
+| 钷花束 | 缓慢修复钻头的耐久值 | 0.18.0+ |
+| 激水珍珠 | 水下呼吸 - 提升你在水下采矿的速度，并在破坏矿石时恢复少量氧气值。  | 0.17.0+ |
+| 飓霆贝壳 | 消爆器 - 极大地降低聚爆石爆炸的几率。| 0.17.0+ |
+| 点金石 | +1 运气 - 将您钻机的运气等级提升一级。 | 0.18.0+ |
+
+## 可以叠加多少迈达斯金到一把迈达斯金剑上？
+
+我不记得确切的数量了。大约在叠满 20 层方块后，它就不再获取新的统计数据了，*我想是这样*……
+
+## 我可以把哪些方块放进点金石权杖？
+
+在原版 Minecraft 和神话金属中的任何东西都可以放进去，但用过的潜影盒不行，因为那样会丢失你的物品。
+
+`#mythicmetals:carmot_staff_blocks` 中的任何方块都被视为独特方块，并具有相关效果。请参阅以下表格：
+
+| 方块        | 描述                                                                     | 相关版本 |
+| :---------: | :-----------------------------------------------------------------------------  | :--------------: |
+| 铁 | 将对手掷起，使法杖变得更强。                                                                 | 0.14.0+          |
+| 金 | 为自己赋予两分钟的幸运。                                                                    | 0.14.0+          |
+| 铜 | 在自己身上召唤闪电。                                                                        | 0.14.0+          |
+| 钻石 | 使法杖变得更强                                                                           | 0.14.0+          |
+| 青铜 | 击中目标时对其施加天谴。                                                                  | 0.14.0+          |
+| 下界合金 | 强力近战武器，使法杖变得更强。                                                          | 0.14.0+          |
+| 炼金石 | 整个模组中单次攻击伤害最高，但攻击速度极慢。                                                | 0.14.0+          |
+| 点金石 | 为你自己和周围的一切恢复 10 点（5 颗心）生命值。                                            | 0.14.2+          |
+| 迈达斯金 | 为你自己和周围的所有人赋予 4 分钟的幸运 2 效果。                                          | 0.14.2+          |
+| 符石 | 用冰霜轰炸你的敌人，使他们被冻结在原地。                                                     | 0.14.2 to 0.16.4 |
+| 星辰铂金 | 让你能非常快速地挥动法杖。                                                             | 0.14.2+          |
+| 信标 | 为大范围内（18 格）的玩家赋予随机的信标效果，持续 30 秒。                                     | 0.14.2+          |
+| 青金石 | 在持有时为使用者提供更多经验。                                                            | 0.14.2+          |
+| 飓霆石 | 在持有时创建一个反射弹射物的力场。                                                        | 0.16.0+          |
+| 海绵 | 移除12格范围内的水。                                                                     | 0.17.0+          |
+| 神圣合金 | 使法杖变得更强。                                                                      | 0.17.0+          |
 
 ## Forge?
-No. The reason is simple - I do not have the time to do so. 
-I would much rather actually finish Mythic Metals and get it out of beta before considering porting it to an entirely different loader
+
+否。原因很简单——我没有时间这么做。我更愿意先把神话金属真正完成并推出测试版，然后再考虑将其移植到一个完全不同的加载器上。
 
 ## Froge???
+
 ![froge is love, froge is life](https://cdn.modrinth.com/data/UVVHL1Wb/images/77d4df96e54e29b9de7fd9c6ff312a1afa1c5994.png)

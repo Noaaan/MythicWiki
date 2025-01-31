@@ -44,7 +44,7 @@ Stormyx Tools are simple tools with no special abilities. Compared to Diamond To
 
 ### Crafting
 
-Stormyx Tools can be crafted from [Stormyx Ingots](https://youtu.be/nEmXCTZN154), which is a resource found in <span style="color:orange">The Nether.</span> It is crafted just like any other armor.
+Stormyx Tools can be crafted from [Stormyx Ingots](https://youtu.be/nEmXCTZN154), which is a resource found in <span style="color:orange">The Nether</span>. It is crafted just like any other tool.
 
 ![Image of the recipe for Stormyx Sword](../../assets/mythicmetals/recipes/tools/stormyx_sword.png){ .sized-recipe style="--image-width: 40%;" }<br>
 ![Image of the recipe for Stormyx Axe](../../assets/mythicmetals/recipes/tools/stormyx_axe.png){ .sized-recipe style="--image-width: 40%;" }<br>

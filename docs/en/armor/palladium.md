@@ -1,7 +1,7 @@
 ---
 title: Palladium Armor
 project: mythicmetals
-summary: A summary of armor made of Palladium. The armor protects you against fire, and also grants the wearer better vision and higher swim speeds in Lava.
+summary: The armor protects you against fire, and also grants the wearer better vision and higher swim speeds in Lava.
 armoricon: palladium_256.png
 ---
 

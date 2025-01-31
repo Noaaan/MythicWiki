@@ -8,8 +8,7 @@ summary: Answers for the most frequently asked Mythic Metals questions
 
 ## Is there a guide for this mod?
 
-Read the advancements. They contain tons of detailed information about what materials are interesting, as well as recipes for alloys.
-Note that two of the advancement have Alloy Forgery Forge Controllers in them. These are direct hints in what Tier you need to forge the specific alloys.
+Read the advancements. They contain tons of detailed information about what materials are interesting, as well as recipes for alloys. Note that two of the advancement have Alloy Forgery Forge Controllers in them. These are direct hints in what Tier you need to forge the specific alloys.
 
 ## How do I make alloys?
 
@@ -23,8 +22,7 @@ The rest, including **Alloy Recipes**, can be viewed using recipe viewers like [
 
 ## Where can I find X?
 
-Most of the ores spawn in the Overworld, some spawn in The Nether. End Stone Starrite spawns in The End.
-There are some biome-exclusive ores, listed here:
+Most of the ores spawn in the Overworld, some spawn in The Nether. End Stone Starrite spawns in The End. There are some biome-exclusive ores, listed here:
 
 - Aquarium: Spawns in Aquatic Biomes, like Rivers and Oceans
 - Prometheum: Spawns in Warm Biomes, like Lush Caves, or Jungles
@@ -45,10 +43,7 @@ For where ores spawn specifically, this will eventually make its way into the wi
 
 ## Can I mine this?
 
-Mythic Metals follows the vanilla progression closely.
-As a rule of thumb: Once you get a Netherite Pickaxe you can mine any ore in the mod.
-There are however **multiple pickaxes in the mod that also have this mining level**.
-As of writing the following pickaxes have this mining level:
+Mythic Metals follows the vanilla progression closely. As a rule of thumb: Once you get a Netherite Pickaxe you can mine any ore in the mod. There are however **multiple pickaxes in the mod that also have this mining level**. As of writing the following pickaxes have this mining level:
 
 - Hallowed
 - Adamantite
@@ -65,8 +60,8 @@ This one will eventually be answered once the Material section is filled out. Fo
 
 ### How does Branding work?
 
-You apply the Heat status effect to your targets by hitting them with a Palladium tool, and once they are hot enough light them on fire to make them combust!
-This heavily increases the fire damage and duration of their burn. Use this to your advantage in places where water is scarce (or simply drain the nearby water).
+You apply the Heat status effect to your targets by hitting them with a Palladium tool, and once they are hot enough light them on fire to make them combust! This heavily increases the fire damage and duration of their burn. Use this to your advantage in places where water is scarce (or simply drain the nearby water).
+
 The way this works is that the effect applies Fire Vulnerability. An extra effect of this is that Fire Resistance will not make you fully immune against burning, only reducing the damage.
 
 ### How do the Prometheum abilities work?
@@ -140,6 +135,7 @@ Here are the directions of how to obtain the Smithing Tables (up-to-date as of 0
 ## How do I upgrade a Mythril Drill?
 
 Any item with the tooltip "Mythril Drill Upgrade" should be insertable in the Mythril Drill. Simply right click the upgrade item onto the drill to insert it. A video example is below. This is the same mechanics as the [Bundle](https://minecraft.wiki/w/Bundle) uses.
+
 ![type:video](../assets/video/upgrade-drill-howto.mp4)
 
 For the available list of Drill Upgrades, see the following table:
@@ -183,8 +179,7 @@ Any Blocks in the `#mythicmetals:carmot_staff_blocks` are considered unique, and
 
 ## Forge?
 
-No. The reason is simple - I do not have the time to do so.
-I would much rather actually finish Mythic Metals and get it out of beta before considering porting it to an entirely different loader
+No. The reason is simple - I do not have the time to do so. I would much rather actually finish Mythic Metals and get it out of beta before considering porting it to an entirely different loader.
 
 ## Froge???
 

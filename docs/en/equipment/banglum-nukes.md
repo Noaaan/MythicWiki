@@ -6,13 +6,11 @@ summary: A summary of how to use Banglum Nukes and its variants.
 
 *War... War never changes*
 
-So you want to learn how to build a nuke, huh?
-Well, its not so hard as you think. Does require a lot of specialized materials.
+So you want to learn how to build a nuke, huh? Well, its not so hard as you think. Does require a lot of specialized materials.
 
 ## Multiblock
 
-You are going to need a lot of Banglum and Morkite.
-The multiblock is going to cost you 14 blocks of Banglum Blocks, and 12 blocks of Morkite, structured like this:
+You are going to need a lot of Banglum and Morkite. The multiblock is going to cost you 14 blocks of Banglum Blocks, and 12 blocks of Morkite, structured like this:
 
 ![Picture of the structure of the Banglum Nuke, forming a 3x3x3 cube of alternating Banglum Blocks and Morkite Blocks, with a Banglum Nuke Core in the middle](../../assets/mythicmetals/banglum_nuke_multiblock.png)
 

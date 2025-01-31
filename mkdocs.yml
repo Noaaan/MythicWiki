@@ -66,19 +66,28 @@ plugins:
       video_autoplay: True
   - i18n:
   # This i18n config structure requires mkdocs-static-i18n of version 1.0.0 or higher.
+  # NOTE: By upgrading to 1.0.0+, the config process can be simplified.
   # See https://ultrabug.github.io/mkdocs-static-i18n/getting-started/quick-start/ for more information.
       docs_structure: folder
       languages:
-        - locale: en
-          default: true
-          name: English
-          build: true
+        # - locale: en
+        #   default: true
+        #   name: English
+        #   build: true
         # - locale: uk
         #   name: Український
         #   build: true
-        # - locale: zh
-        #   name: 中文
-        #   build: true
+        - locale: zh
+          default: true
+          name: 中文
+          build: true
+          nav_translations:
+            Home: 主页
+            FAQ: 常见问题解答
+            Armor: 盔甲
+            Equipment: 装备
+            Ores and Materials: 矿石和材料
+            Specification: 规格
   - git-revision-date-localized:
       type: timeago
 
@@ -114,15 +123,15 @@ markdown_extensions:
 
 extra:
   alternate:
-    - name: English
-      link: /
-      lang: en
+    # - name: English
+    #   link: /
+    #   lang: en
     # - name: Ukrainian
     #   link: /uk/
     #   lang: uk
-    # - name: Chinese
-    #   link: /zh/
-    #   lang: zh
+    - name: Chinese
+      link: /
+      lang: zh
   social:
     - icon: fontawesome/brands/discord
       link: https://discord.com/invite/69cKvQWScC

@@ -1,15 +1,15 @@
 ---
-title: Stormyx
+title: 飓霆
 project: mythicmetals
-summary: A summary of the Stormyx Material, its usages, and its history.
+summary: 飓霆材料及其使用和历史的摘要。
 ---
 
 !!! info inline end ""
-    <center>**Stormyx**<br>
-    ![Image of a Stormyx Ingot, a mainly pink ingot with a blue accent/border](/assets/mythicmetals/stormyx_ingot.png)<br>
-    Can be made into tools and armor<br><br>
-    *Ability - Magic Protection:* <br>
-    Flat magic damage reduction by X points.<br>
+    <center>**飓霆**<br>
+    ![Image of a Stormyx Ingot, a mainly pink ingot with a blue accent/border](../../assets/mythicmetals/stormyx_ingot.png)<br>
+    可以用于制作工具和装备<br><br>
+    *能力 - 魔法保护：* <br>
+    固定减少 X 点魔法伤害。<br>
     </center>
 
-This page will eventually contain information on where to find the ores, and an example of what the abilities related to the material does.
+此页面最终将包含有关如何找到矿石的信息，以及与该材料相关的技能示例。
