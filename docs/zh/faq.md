@@ -96,22 +96,6 @@ summary: 关于神话金属最常被问到的问题的答案
 
 ## 我能在哪里找到锻造模板？
 
-- Carmot Staff
-  - Found in Village Temple chests. In vanilla this only spawns in Desert Village Temples
-  - Not to be confused with Desert Temples, which resemble pyramids. The structure you are looking for is more like a small sandstone castle
-  - Can be duplicated with Diamonds and Smooth Basalt
-- Carmot Upgrade
-  - Crafted from Carmot, Diamonds, and Smooth Basalt
-  - Upgrades Kyber Gear into its Carmot equivalent
-  - Can be duplicated using Carmot, Smooth Basalt, and Carmot Nuggets
-- Legendary Banglum Upgrade
-  - Crafted from Banglum Ingots and Tuff
-  - Upgrades Banglum Gear to its Legendary variant using a Banglum Chunk
-- Aegis Sword Upgrade
-  - Obtained from trading with Villagers, specifically Master level Clerics
-  - Can upgrade a Palladium Sword to the Blade of the Aegis
-  - Can upgrade a Hallowed Sword to the Sword of the Aegis
-
 以下是如何获得锻造台的详细指南（截至 0.18.2 版本）：
 
 - 叵得合金升级
@@ -147,8 +131,6 @@ summary: 关于神话金属最常被问到的问题的答案
   - 可以将神圣剑升级为素庇剑
 
 ## 我应当如何升级秘银钻头？
-
-Any item with the tooltip "Mythril Drill Upgrade" should be insertable in the Mythril Drill. Simply right click the upgrade item onto the drill to insert it. A video example is below. This is the same mechanics as the [Bundle](https://minecraft.wiki/w/Bundle) uses.
 
 任何带有工具提示“用钻头升级”的物品都应该可以插入到秘银钻头中。只需右键点击升级物品即可将其插入钻机。下面是一个视频示例。这个机制与[收纳袋](https://minecraft.wiki/w/Bundle)的使用方式相同。
 
