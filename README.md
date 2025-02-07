@@ -18,12 +18,6 @@ If you want to make larger contributions, you will have to clone recursively via
 git clone git@github.com:Noaaan/MythicWiki.git --recursive
 ```
 
-<!-- For building against the theme you need to install MkDocs via Pip (Python). To get started simply run the following:
-
-```bash
-pip install mkdocs-material mkdocs-git-revision-date-localized-plugin mkdocs-video mkdocs-static-i18n[material]
-``` -->
-
 For building against the theme you need to install MkDocs via Pip (Python). To get started simply run the following:
 
 ```bash
