@@ -36,7 +36,7 @@ For where ores spawn specifically, this will eventually make its way into the wi
 
 - Overworld: spawns anywhere in the `#mythicmetals:mythic_ore_biomes` tag, which includes `#c:in_overworld`
 - Aquarium: spawns anywhere in the `#mythicmetals:aquarium_biomes` tag, which includes `#c:is_aquatic`
-  - In older versions (below 0.20.2) this used to be only `#c:aquatic`
+    - In older versions (below 0.20.2) this used to be only `#c:aquatic`
 - Prometheum: spawns anywhere in the `#mythicmetals:prometheum_biomes` tag, which includes `#minecraft:is_jungle`
 - Osmium: spawns anywhere in the `#mythicmetals:osmium_biomes` tag, which includes `#c:mountain` and `#c:extreme_hills`
 - The Nether and The End are currently not tag-driven, and simply uses Fabric API to insert into all relevant biomes. In the future this might be changed.
@@ -83,8 +83,8 @@ In the latest versions (0.20.0 and above), the thresholds are the following:
 
 - At 1200 durability repaired, tools gain +1 damage. Armor gains +1 armor and armor toughness.
 - At 2400 durability repaired, the bonuses above increase to the following:
-  - +2 damage for tools
-  - +2 armor & toughness for armor
+    - +2 damage for tools
+    - +2 armor & toughness for armor
 
 In the older versions, the thresholds looks like this:
 
@@ -101,36 +101,36 @@ If you apply Curse of Binding on the Armor, it will gain additional stats (+1 to
 Here are the directions of how to obtain the Smithing Tables (up-to-date as of 0.18.2):
 
 - Unobtainium Alloy Upgrade
-  - Found in Ancient Cities
-  - Allows you to craft Metallurgium and Celestium Gear from Netherite and Diamond respectively
-  - Can be duplicated with Diamonds and Deepslate
+    - Found in Ancient Cities
+    - Allows you to craft Metallurgium and Celestium Gear from Netherite and Diamond respectively
+    - Can be duplicated with Diamonds and Deepslate
 - Royal Midas Gold Sword Upgrade
-  - Rarely found when bartering with Piglins using Midas Gold
-  - Allows you to upgrade a maxed Gilded Midas Gold Sword into its final form...
-  - Can be duplicated with Diamonds and Deepslate
+    - Rarely found when bartering with Piglins using Midas Gold
+    - Allows you to upgrade a maxed Gilded Midas Gold Sword into its final form...
+    - Can be duplicated with Diamonds and Deepslate
 - Mythril Drill Upgrade
-  - Found in Mineshafts
-  - Upgrades a Mythril Pickaxe, using a Durasteel engine, into a Mythril Drill
-  - Can be duplicated with Diamonds and Deepslate
+    - Found in Mineshafts
+    - Upgrades a Mythril Pickaxe, using a Durasteel engine, into a Mythril Drill
+    - Can be duplicated with Diamonds and Deepslate
 - Midas Gold Folding
-  - Crafted in the crafting table using Midas Gold and Netherrack
-  - Used to increase the gold counter on any Midas Gold Swords by 1
-  - Can be duplicated for nuggets once you have made one
+    - Crafted in the crafting table using Midas Gold and Netherrack
+    - Used to increase the gold counter on any Midas Gold Swords by 1
+    - Can be duplicated for nuggets once you have made one
 - Carmot Staff
-  - Found in Village Temple chests. In vanilla this only spawns in Desert Village Temples
-  - Not to be confused with Desert Temples, which resemble pyramids. The structure you are looking for is more like a small sandstone castle
-  - Can be duplicated with Diamonds and Smooth Basalt
+    - Found in Village Temple chests. In vanilla this only spawns in Desert Village Temples
+    - Not to be confused with Desert Temples, which resemble pyramids. The structure you are looking for is more like a small sandstone castle
+    - Can be duplicated with Diamonds and Smooth Basalt
 - Carmot Upgrade
-  - Crafted from Carmot, Diamonds, and Smooth Basalt
-  - Upgrades Kyber Gear into its Carmot equivalent
-  - Can be duplicated using Carmot, Smooth Basalt, and Carmot Nuggets
+    - Crafted from Carmot, Diamonds, and Smooth Basalt
+    - Upgrades Kyber Gear into its Carmot equivalent
+    - Can be duplicated using Carmot, Smooth Basalt, and Carmot Nuggets
 - Legendary Banglum Upgrade
-  - Crafted from Banglum Ingots and Tuff
-  - Upgrades Banglum Gear to its Legendary variant using a Banglum Chunk
+    - Crafted from Banglum Ingots and Tuff
+    - Upgrades Banglum Gear to its Legendary variant using a Banglum Chunk
 - Aegis Sword Upgrade
-  - Obtained from trading with Villagers, specifically Master level Clerics
-  - Can upgrade a Palladium Sword to the Blade of the Aegis
-  - Can upgrade a Hallowed Sword to the Sword of the Aegis
+    - Obtained from trading with Villagers, specifically Master level Clerics
+    - Can upgrade a Palladium Sword to the Blade of the Aegis
+    - Can upgrade a Hallowed Sword to the Sword of the Aegis
 
 ## How do I upgrade a Mythril Drill?
 
