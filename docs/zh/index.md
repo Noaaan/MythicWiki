@@ -10,7 +10,7 @@ summary: 神话金属官方百科
 
 - 如果您是一名玩家，您可能在寻找叵得素的资料。我还没写那一页，而且那很可能会是最后一页。
 - 您还可以在 [https://docs.wispforest.io](https://docs.wispforest.io) 中找到我涉足的其他一些项目的精彩文档。
-- 您也可以在[神话金属](./spec.md)页面中找到文档——谁能想到呢。
+- 您也可以在[神话金属](./spec.md)页面中找到文档——想不到吧。
 
 **我还没有弃坑！**我一直在缓慢地推进工具的开发工作，如今终于能够更高效地发布相关内容的页面了。现在[常见问题解答](./faq.md)取代了旧版 GitHub Wiki 中的所有内容，同时[Discord Server](https://discord.com/invite/69cKvQWScC)则提供了更多交流渠道。
 
