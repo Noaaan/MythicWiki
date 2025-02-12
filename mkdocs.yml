@@ -80,6 +80,7 @@ plugins:
         - locale: zh
           name: 中文
           build: true
+          copyright: "文档由 <a style=\"color: #13A6F0;\" href=\"https://github.com/Noaaan\">Noaaan</a> 撰写, 并得到了<a style=\"color: #13A6F0;\" href=\"https://github.com/gliscowo\">glisco</a>, Wisp Forest 团队, 和 Wraith Coding Sesh 全员的协助"
           nav_translations:
             Home: 主页
             FAQ: 常见问题解答
