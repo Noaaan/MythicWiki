@@ -4,7 +4,7 @@ project: mythicmetals
 summary: 关于如何使用聚爆石核弹及其变种的摘要。
 ---
 
-*战争……战争从未改变*
+*War... War never changes*
 
 所以你想学怎么造核弹，是吧？其实也没你想的那么难。不过确实需要很多特殊材料。
 
