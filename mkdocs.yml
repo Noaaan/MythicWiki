@@ -2,6 +2,7 @@ site_name: Mythic Metals Wiki
 site_url: https://wiki.mythicmetals.com
 docs_dir: 'docs'
 
+
 copyright: "Documentation by <a style=\"color: #13A6F0;\" href=\"https://github.com/Noaaan\">Noaaan</a>, with assistance from <a style=\"color: #13A6F0;\" href=\"https://github.com/gliscowo\">glisco</a>, the Wisp Forest team, and the Wraith Coding Sesh crew"
 
 nav:
@@ -64,15 +65,29 @@ plugins:
   - mkdocs-video:
       video_autoplay: True
   - i18n:
+  # This i18n config structure requires mkdocs-static-i18n of version 1.0.0 or higher.
+  # NOTE: By upgrading to 1.0.0+, the config process can be simplified.
+  # See https://ultrabug.github.io/mkdocs-static-i18n/getting-started/quick-start/ for more information.
       docs_structure: folder
       languages:
         - locale: en
           default: true
-          build: true
           name: English
-        - locale: uk
           build: true
+        - locale: uk
           name: Український
+          build: true
+        - locale: zh
+          name: 中文
+          build: true
+          copyright: "文档由 <a style=\"color: #13A6F0;\" href=\"https://github.com/Noaaan\">Noaaan</a> 撰写, 并得到了<a style=\"color: #13A6F0;\" href=\"https://github.com/gliscowo\">glisco</a>, Wisp Forest 团队, 和 Wraith Coding Sesh 全员的协助"
+          nav_translations:
+            Home: 主页
+            FAQ: 常见问题解答
+            Armor: 盔甲
+            Equipment: 装备
+            Ores and Materials: 矿石和材料
+            Specification: 规格
   - git-revision-date-localized:
       type: timeago
 
@@ -106,25 +121,6 @@ markdown_extensions:
     - pymdownx.tilde
     - pymdownx.critic
 
-nav:
-    - Home: index.md
-    - FAQ: faq.md
-    - Armor:
-        - armor/palladium.md
-        - armor/stormyx.md
-    - Equipment:
-        - equipment/banglum-nukes.md
-        - equipment/kyber.md
-        - equipment/stormyx.md
-        - equipment/stormyx-shield.md
-    - Ores and Materials:
-        - materials/adamantite-ores.md
-        - materials/stormyx.md
-        - materials/stormyx-ores.md
-        - materials/rare-drops.md
-    - Specification:
-        - spec.md
-
 extra:
   alternate:
     - name: English
@@ -133,6 +129,9 @@ extra:
     - name: Ukrainian
       link: /uk/
       lang: uk
+    - name: Chinese
+      link: /zh/
+      lang: zh
   social:
     - icon: fontawesome/brands/discord
       link: https://discord.com/invite/69cKvQWScC

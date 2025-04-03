@@ -1,7 +1,7 @@
 ---
 title: Stormyx Shield
 project: mythicmetals
-summary: The Stormyx Shield; A stronger shield which passively protects against magic. 
+summary: The Stormyx Shield; A stronger shield which passively protects against magic.
 icon: stormyx_shield.png
 ---
 
@@ -10,7 +10,7 @@ icon: stormyx_shield.png
 !!! info inline end ""
     <center class=tooltip>
     <h3>**Stormyx Shield**</h3>
-    ![Image of Stormyx Shield](/assets/mythicmetals/stormyx_shield.png){ .sized-image style="--image-width: 40%;" }<br>
+    ![Image of Stormyx Shield](../../assets/mythicmetals/stormyx_shield.png){ .sized-image style="--image-width: 40%;" }<br>
     +2 Magic Protection<br>
     1680 Durability<br>
     ---
@@ -25,8 +25,9 @@ Compared to a standard shield it has some minor benefits. Firstly it can take a 
 Secondly, when disabled by an axe, it goes on a second shorter cooldown of 4 seconds (80 ticks), allowing you to start using it quicker.
 
 ## Obtaining
+
 ### Crafting
 
 The Stormyx Shield is crafted from [Stormyx Ingots](https://youtu.be/nEmXCTZN154), which is a resource found in <span style="color:orange">The Nether.</span> You also need a [Stormyx Shell](../materials/rare-drops.md), a rare dropped which is obtained while mining Stormyx Ores.
 
-![Image of the recipe for Stormyx Shield](/assets/mythicmetals/recipes/tools/stormyx_shield.png){ .sized-recipe style="--image-width: 40%;" }<br>
+![Image of the recipe for Stormyx Shield](../../assets/mythicmetals/recipes/tools/stormyx_shield.png){ .sized-recipe style="--image-width: 40%;" }<br>

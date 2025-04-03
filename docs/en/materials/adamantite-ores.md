@@ -7,9 +7,9 @@ summary: A summary of Adamantite Ores, their history, and where to find them.
 !!! info inline end ""
     <center class=tooltip>
     <h3>**Adamantite Ore**</h3>
-    ![WRITE ALT TEXT HERE](/assets/mythicmetals/adamantite_ore.png)<br>
+    ![WRITE ALT TEXT HERE](../../assets/mythicmetals/adamantite_ore.png)<br>
     <h3>**Deepslate Adamantite Ore**</h3>
-    ![WRITE ALT TEXT HERE](/assets/mythicmetals/deepslate_adamantite_ore.png)
+    ![WRITE ALT TEXT HERE](../../assets/mythicmetals/deepslate_adamantite_ore.png)
     ---
     **Mining Level**: X (Y for variant)<br>
     **Max Vein Size**: 5<br>
@@ -17,6 +17,9 @@ summary: A summary of Adamantite Ores, their history, and where to find them.
     **Discard Chance**: 12.5%<br>
 
 ## Generation
+
 ## Usages
+
 ## Trivia
+
 ## History

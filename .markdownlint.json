@@ -1,0 +1,12 @@
+{
+    "line-length": false,
+    "no-inline-html": false,
+    "first-line-h1": false,
+    "single-h1": false,
+    "link-fragments": false,
+    "reference-links-images": false,
+    "no-emphasis-as-heading": false,
+    "ul-indent": {
+        "indent": 4
+    }
+}

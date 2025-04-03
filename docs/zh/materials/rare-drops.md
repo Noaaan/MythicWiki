@@ -4,4 +4,4 @@ project: mythicmetals
 summary: A page describing the various rare drops from Mythic Metals.
 ---
 
-TODO
+还没写，别急。
