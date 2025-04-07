@@ -18,8 +18,27 @@ nav:
         - equipment/stormyx-shield.md
     - Ores and Materials:
         - materials/adamantite-ores.md
-        - materials/stormyx.md
+        - materials/aquarium-ores.md
+        - materials/banglum-ores.md
+        - materials/carmot-ores.md
+        - materials/kyber-ores.md
+        - materials/manganese-ores.md
+        - materials/midas-gold-ores.md
+        - materials/morkite-ores.md
+        - materials/mythril-ores.md
+        - materials/orichalcum-ores.md
+        - materials/osmium-ores.md
+        - materials/palladium-ores.md
+        - materials/platinum-ores.md
+        - materials/prometheum-ores.md
+        - materials/quadrillum-ores.md
+        - materials/runite-ores.md
+        - materials/silver-ores.md
+        - materials/starrite-ores.md
         - materials/stormyx-ores.md
+        - materials/tin-ores.md
+        - materials/unobtainium-ores.md
+        - materials/stormyx.md
         - materials/rare-drops.md
     - Specification:
         - spec.md

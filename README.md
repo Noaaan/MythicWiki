@@ -35,6 +35,3 @@ To serve the documentation, run the serve command:
 ```bash
 mkdocs serve
 ```
-
-> [!NOTE]
-> Currently it is not possible to serve the full site with translations for all pages.
