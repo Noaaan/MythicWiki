@@ -2,184 +2,770 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
         <loc>https://wiki.mythicmetals.com/</loc>
-        <lastmod>2024-12-22</lastmod>
+        <lastmod>2025-04-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/"/>
         <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/"/>
     </url>
     <url>
         <loc>https://wiki.mythicmetals.com/faq/</loc>
-        <lastmod>2024-12-22</lastmod>
+        <lastmod>2025-04-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/faq/"/>
         <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/faq/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/faq/"/>
     </url>
     <url>
         <loc>https://wiki.mythicmetals.com/spec/</loc>
-        <lastmod>2024-12-22</lastmod>
+        <lastmod>2025-04-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/spec/"/>
         <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/spec/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/spec/"/>
     </url>
     <url>
         <loc>https://wiki.mythicmetals.com/armor/palladium/</loc>
-        <lastmod>2024-12-22</lastmod>
+        <lastmod>2025-04-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/armor/palladium/"/>
         <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/armor/palladium/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/armor/palladium/"/>
     </url>
     <url>
         <loc>https://wiki.mythicmetals.com/armor/stormyx/</loc>
-        <lastmod>2024-12-22</lastmod>
+        <lastmod>2025-04-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/armor/stormyx/"/>
         <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/armor/stormyx/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/armor/stormyx/"/>
     </url>
     <url>
         <loc>https://wiki.mythicmetals.com/equipment/banglum-nukes/</loc>
-        <lastmod>2024-12-22</lastmod>
+        <lastmod>2025-04-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/equipment/banglum-nukes/"/>
         <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/equipment/banglum-nukes/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/equipment/banglum-nukes/"/>
     </url>
     <url>
         <loc>https://wiki.mythicmetals.com/equipment/kyber/</loc>
-        <lastmod>2024-12-22</lastmod>
+        <lastmod>2025-04-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/equipment/kyber/"/>
         <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/equipment/kyber/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/equipment/kyber/"/>
     </url>
     <url>
         <loc>https://wiki.mythicmetals.com/equipment/stormyx-shield/</loc>
-        <lastmod>2024-12-22</lastmod>
+        <lastmod>2025-04-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/equipment/stormyx-shield/"/>
         <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/equipment/stormyx-shield/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/equipment/stormyx-shield/"/>
     </url>
     <url>
         <loc>https://wiki.mythicmetals.com/equipment/stormyx/</loc>
-        <lastmod>2024-12-22</lastmod>
+        <lastmod>2025-04-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/equipment/stormyx/"/>
         <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/equipment/stormyx/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/equipment/stormyx/"/>
     </url>
     <url>
         <loc>https://wiki.mythicmetals.com/materials/adamantite-ores/</loc>
-        <lastmod>2024-12-22</lastmod>
+        <lastmod>2025-04-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/adamantite-ores/"/>
         <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/adamantite-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/adamantite-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/materials/aquarium-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/aquarium-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/aquarium-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/aquarium-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/materials/banglum-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/banglum-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/banglum-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/banglum-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/materials/carmot-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/carmot-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/carmot-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/carmot-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/materials/kyber-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/kyber-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/kyber-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/kyber-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/materials/manganese-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/manganese-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/manganese-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/manganese-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/materials/midas-gold-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/midas-gold-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/midas-gold-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/midas-gold-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/materials/morkite-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/morkite-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/morkite-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/morkite-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/materials/mythril-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/mythril-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/mythril-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/mythril-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/materials/orichalcum-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/orichalcum-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/orichalcum-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/orichalcum-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/materials/osmium-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/osmium-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/osmium-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/osmium-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/materials/palladium-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/palladium-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/palladium-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/palladium-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/materials/platinum-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/platinum-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/platinum-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/platinum-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/materials/prometheum-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/prometheum-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/prometheum-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/prometheum-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/materials/quadrillum-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/quadrillum-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/quadrillum-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/quadrillum-ores/"/>
     </url>
     <url>
         <loc>https://wiki.mythicmetals.com/materials/rare-drops/</loc>
-        <lastmod>2024-12-22</lastmod>
+        <lastmod>2025-04-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/rare-drops/"/>
         <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/rare-drops/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/rare-drops/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/materials/runite-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/runite-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/runite-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/runite-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/materials/silver-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/silver-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/silver-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/silver-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/materials/starrite-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/starrite-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/starrite-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/starrite-ores/"/>
     </url>
     <url>
         <loc>https://wiki.mythicmetals.com/materials/stormyx-ores/</loc>
-        <lastmod>2024-12-22</lastmod>
+        <lastmod>2025-04-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/stormyx-ores/"/>
         <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/stormyx-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/stormyx-ores/"/>
     </url>
     <url>
         <loc>https://wiki.mythicmetals.com/materials/stormyx/</loc>
-        <lastmod>2024-12-22</lastmod>
+        <lastmod>2025-04-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/stormyx/"/>
         <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/stormyx/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/stormyx/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/materials/tin-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/tin-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/tin-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/tin-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/materials/unobtainium-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/unobtainium-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/unobtainium-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/unobtainium-ores/"/>
     </url>
     <url>
         <loc>https://wiki.mythicmetals.com/uk/</loc>
-        <lastmod>2024-12-22</lastmod>
+        <lastmod>2025-04-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/"/>
     </url>
     <url>
         <loc>https://wiki.mythicmetals.com/uk/faq/</loc>
-        <lastmod>2024-12-22</lastmod>
+        <lastmod>2025-04-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/faq/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/faq/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/faq/"/>
     </url>
     <url>
         <loc>https://wiki.mythicmetals.com/uk/spec/</loc>
-        <lastmod>2024-12-22</lastmod>
+        <lastmod>2025-04-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/spec/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/spec/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/spec/"/>
     </url>
     <url>
         <loc>https://wiki.mythicmetals.com/uk/armor/palladium/</loc>
-        <lastmod>2024-12-22</lastmod>
+        <lastmod>2025-04-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/armor/palladium/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/armor/palladium/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/armor/palladium/"/>
     </url>
     <url>
         <loc>https://wiki.mythicmetals.com/uk/armor/stormyx/</loc>
-        <lastmod>2024-12-22</lastmod>
+        <lastmod>2025-04-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/armor/stormyx/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/armor/stormyx/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/armor/stormyx/"/>
     </url>
     <url>
         <loc>https://wiki.mythicmetals.com/uk/equipment/banglum-nukes/</loc>
-        <lastmod>2024-12-22</lastmod>
+        <lastmod>2025-04-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/equipment/banglum-nukes/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/equipment/banglum-nukes/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/equipment/banglum-nukes/"/>
     </url>
     <url>
         <loc>https://wiki.mythicmetals.com/uk/equipment/kyber/</loc>
-        <lastmod>2024-12-22</lastmod>
+        <lastmod>2025-04-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/equipment/kyber/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/equipment/kyber/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/equipment/kyber/"/>
     </url>
     <url>
         <loc>https://wiki.mythicmetals.com/uk/equipment/stormyx-shield/</loc>
-        <lastmod>2024-12-22</lastmod>
+        <lastmod>2025-04-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/equipment/stormyx-shield/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/equipment/stormyx-shield/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/equipment/stormyx-shield/"/>
     </url>
     <url>
         <loc>https://wiki.mythicmetals.com/uk/equipment/stormyx/</loc>
-        <lastmod>2024-12-22</lastmod>
+        <lastmod>2025-04-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/equipment/stormyx/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/equipment/stormyx/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/equipment/stormyx/"/>
     </url>
     <url>
         <loc>https://wiki.mythicmetals.com/uk/materials/adamantite-ores/</loc>
-        <lastmod>2024-12-22</lastmod>
+        <lastmod>2025-04-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/adamantite-ores/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/adamantite-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/adamantite-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/uk/materials/aquarium-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/aquarium-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/aquarium-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/aquarium-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/uk/materials/banglum-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/banglum-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/banglum-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/banglum-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/uk/materials/carmot-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/carmot-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/carmot-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/carmot-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/uk/materials/kyber-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/kyber-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/kyber-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/kyber-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/uk/materials/manganese-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/manganese-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/manganese-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/manganese-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/uk/materials/midas-gold-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/midas-gold-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/midas-gold-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/midas-gold-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/uk/materials/morkite-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/morkite-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/morkite-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/morkite-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/uk/materials/mythril-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/mythril-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/mythril-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/mythril-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/uk/materials/orichalcum-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/orichalcum-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/orichalcum-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/orichalcum-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/uk/materials/osmium-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/osmium-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/osmium-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/osmium-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/uk/materials/palladium-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/palladium-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/palladium-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/palladium-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/uk/materials/platinum-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/platinum-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/platinum-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/platinum-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/uk/materials/prometheum-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/prometheum-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/prometheum-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/prometheum-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/uk/materials/quadrillum-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/quadrillum-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/quadrillum-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/quadrillum-ores/"/>
     </url>
     <url>
         <loc>https://wiki.mythicmetals.com/uk/materials/rare-drops/</loc>
-        <lastmod>2024-12-22</lastmod>
+        <lastmod>2025-04-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/rare-drops/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/rare-drops/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/rare-drops/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/uk/materials/runite-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/runite-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/runite-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/runite-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/uk/materials/silver-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/silver-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/silver-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/silver-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/uk/materials/starrite-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/starrite-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/starrite-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/starrite-ores/"/>
     </url>
     <url>
         <loc>https://wiki.mythicmetals.com/uk/materials/stormyx-ores/</loc>
-        <lastmod>2024-12-22</lastmod>
+        <lastmod>2025-04-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/stormyx-ores/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/stormyx-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/stormyx-ores/"/>
     </url>
     <url>
         <loc>https://wiki.mythicmetals.com/uk/materials/stormyx/</loc>
-        <lastmod>2024-12-22</lastmod>
+        <lastmod>2025-04-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/stormyx/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/stormyx/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/stormyx/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/uk/materials/tin-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/tin-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/tin-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/tin-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/uk/materials/unobtainium-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/unobtainium-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/unobtainium-ores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/unobtainium-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/zh/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/zh/faq/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/faq/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/faq/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/zh/spec/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/spec/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/spec/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/spec/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/zh/armor/palladium/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/armor/palladium/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/armor/palladium/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/armor/palladium/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/zh/armor/stormyx/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/armor/stormyx/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/armor/stormyx/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/armor/stormyx/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/zh/equipment/banglum-nukes/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/equipment/banglum-nukes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/equipment/banglum-nukes/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/equipment/banglum-nukes/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/zh/equipment/kyber/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/equipment/kyber/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/equipment/kyber/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/equipment/kyber/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/zh/equipment/stormyx-shield/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/equipment/stormyx-shield/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/equipment/stormyx-shield/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/equipment/stormyx-shield/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/zh/equipment/stormyx/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/equipment/stormyx/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/equipment/stormyx/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/equipment/stormyx/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/zh/materials/adamantite-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/adamantite-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/adamantite-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/adamantite-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/zh/materials/aquarium-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/aquarium-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/aquarium-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/aquarium-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/zh/materials/banglum-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/banglum-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/banglum-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/banglum-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/zh/materials/carmot-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/carmot-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/carmot-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/carmot-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/zh/materials/kyber-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/kyber-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/kyber-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/kyber-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/zh/materials/manganese-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/manganese-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/manganese-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/manganese-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/zh/materials/midas-gold-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/midas-gold-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/midas-gold-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/midas-gold-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/zh/materials/morkite-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/morkite-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/morkite-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/morkite-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/zh/materials/mythril-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/mythril-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/mythril-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/mythril-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/zh/materials/orichalcum-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/orichalcum-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/orichalcum-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/orichalcum-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/zh/materials/osmium-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/osmium-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/osmium-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/osmium-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/zh/materials/palladium-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/palladium-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/palladium-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/palladium-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/zh/materials/platinum-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/platinum-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/platinum-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/platinum-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/zh/materials/prometheum-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/prometheum-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/prometheum-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/prometheum-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/zh/materials/quadrillum-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/quadrillum-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/quadrillum-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/quadrillum-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/zh/materials/rare-drops/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/rare-drops/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/rare-drops/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/rare-drops/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/zh/materials/runite-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/runite-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/runite-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/runite-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/zh/materials/silver-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/silver-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/silver-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/silver-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/zh/materials/starrite-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/starrite-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/starrite-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/starrite-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/zh/materials/stormyx-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/stormyx-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/stormyx-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/stormyx-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/zh/materials/stormyx/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/stormyx/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/stormyx/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/stormyx/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/zh/materials/tin-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/tin-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/tin-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/tin-ores/"/>
+    </url>
+    <url>
+        <loc>https://wiki.mythicmetals.com/zh/materials/unobtainium-ores/</loc>
+        <lastmod>2025-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://wiki.mythicmetals.com/zh/materials/unobtainium-ores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wiki.mythicmetals.com/materials/unobtainium-ores/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://wiki.mythicmetals.com/uk/materials/unobtainium-ores/"/>
     </url>
 </urlset>
