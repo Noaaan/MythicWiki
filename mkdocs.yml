@@ -9,8 +9,31 @@ nav:
     - Home: index.md
     - FAQ: faq.md
     - Armor:
+        - armor/adamantite.md
+        - armor/aquarium.md
+        - armor/banglum.md
+        - armor/bronze.md
+        - armor/carmot.md
+        - armor/celestium.md
+        - armor/copper.md
+        - armor/durasteel.md
+        - armor/hallowed.md
+        - armor/kyber.md
+        - armor/legendary_banglum.md
+        - armor/metallurgium.md
+        - armor/midas_gold.md
+        - armor/mythril.md
+        - armor/orichalcum.md
+        - armor/osmium.md
+        - armor/osmium_chainmail.md
         - armor/palladium.md
+        - armor/prometheum.md
+        - armor/runite.md
+        - armor/silver.md
+        - armor/star_platinum.md
+        - armor/steel.md
         - armor/stormyx.md
+        - armor/tidesinger.md
     - Equipment:
         - equipment/banglum-nukes.md
         - equipment/adamantite-tools.md
