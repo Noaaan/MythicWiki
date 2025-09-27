@@ -41,3 +41,9 @@ Using this nuke core, the explosion will magically exclude all ores when it expl
 This nuke core will sacrifice some of the radius, while doubling the damage dealt from the explosion
 
 ![Image of the recipe for a Quadrillum Nuke Core, which is a Banglum Nuke Core surrounded by 8 Raw Quadrillum in a crafting table](../../assets/mythicmetals/recipes/blocks/quadrillum_nuke_core.png){ .sized-recipe style="--image-width: 50%;" }<br>
+
+### Sponge Nuke Core
+
+This nuke core will only any block which is, or contains, a fluid. Examples include waterlogged stairs, and lavalogged Palladium Rails. 
+
+![Image of the recipe for a Sponge Nuke Core, which is a Banglum Nuke Core and a Sponge combined in shapeless crafting](../../assets/mythicmetals/recipes/blocks/sponge_nuke_core.png){ .sized-recipe style="--image-width: 50%;" }<br>
