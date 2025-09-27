@@ -2,13 +2,13 @@
 title: Midas Gold Armor
 project: mythicmetals
 summary: The armor does protect you (TODO).
-armoricon: midas_gold_256.png
+armoricon: midas_gold.png
 ---
 
 !!! info inline end ""
     <center class=tooltip>
     <h3>**Midas Gold Armor**</h3>
-    ![WRITE ALT TEXT HERE](../../assets/armor-models/256/midas_gold_256.png)<br>
+    ![WRITE ALT TEXT HERE](../../assets/armor-models/256/midas_gold.png)<br>
 
 	<h4>**Midas Gold Crown**</h4>
 	![Image of Midas Gold Crown](../../assets/mythicmetals/midas_gold_helmet.png){ .sized-image style="--image-width: 40%;" }<br>	![armor](../../assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }

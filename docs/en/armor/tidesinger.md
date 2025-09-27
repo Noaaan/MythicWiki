@@ -2,13 +2,13 @@
 title: Tidesinger Armor
 project: mythicmetals
 summary: The armor does protect you (TODO).
-armoricon: tidesinger_256.png
+armoricon: tidesinger.png
 ---
 
 !!! info inline end ""
     <center class=tooltip>
     <h3>**Tidesinger Armor**</h3>
-    ![WRITE ALT TEXT HERE](../../assets/armor-models/256/tidesinger_256.png)<br>
+    ![WRITE ALT TEXT HERE](../../assets/armor-models/256/tidesinger.png)<br>
 
 	<h4>**Tidesinger Helmet**</h4>
 	![Image of Tidesinger Helmet](../../assets/mythicmetals/tidesinger_helmet.png){ .sized-image style="--image-width: 40%;" }<br>	![armor](../../assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }

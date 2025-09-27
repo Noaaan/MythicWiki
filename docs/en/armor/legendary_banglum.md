@@ -2,13 +2,13 @@
 title: Legendary Banglum Armor
 project: mythicmetals
 summary: The armor does protect you (TODO).
-armoricon: legendary_banglum_256.png
+armoricon: legendary_banglum.png
 ---
 
 !!! info inline end ""
     <center class=tooltip>
     <h3>**Legendary Banglum Armor**</h3>
-    ![WRITE ALT TEXT HERE](../../assets/armor-models/256/legendary_banglum_256.png)<br>
+    ![WRITE ALT TEXT HERE](../../assets/armor-models/256/legendary_banglum.png)<br>
 
 	<h4>**Legendary Banglum Helmet**</h4>
 	![Image of Legendary Banglum Helmet](../../assets/mythicmetals/legendary_banglum_helmet.png){ .sized-image style="--image-width: 40%;" }<br>	![armor](../../assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }

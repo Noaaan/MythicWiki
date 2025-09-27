@@ -2,13 +2,13 @@
 title: Silver Armor
 project: mythicmetals
 summary: The armor does protect you (TODO).
-armoricon: silver_256.png
+armoricon: silver.png
 ---
 
 !!! info inline end ""
     <center class=tooltip>
     <h3>**Silver Armor**</h3>
-    ![WRITE ALT TEXT HERE](../../assets/armor-models/256/silver_256.png)<br>
+    ![WRITE ALT TEXT HERE](../../assets/armor-models/256/silver.png)<br>
 
 	<h4>**Silver Crown**</h4>
 	![Image of Silver Crown](../../assets/mythicmetals/silver_helmet.png){ .sized-image style="--image-width: 40%;" }<br>	![armor](../../assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }

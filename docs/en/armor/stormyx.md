@@ -2,7 +2,7 @@
 title: Stormyx Armor
 project: mythicmetals
 summary: A summary of Stormyx Armor stats and abilities.
-armoricon: stormyx_256.png
+armoricon: stormyx.png
 ---
 
 # Stormyx Armor
@@ -10,7 +10,7 @@ armoricon: stormyx_256.png
 !!! info inline end ""
     <center class=tooltip>
     <h3>**Stormyx Armor**</h3>
-    ![image of Stormyx Armor model](../../assets/armor-models/256/stormyx_256.png)
+    ![image of Stormyx Armor model](../../assets/armor-models/256/stormyx.png)
     <h4>**Stormyx Helmet**</h4>
     ![Image of Stormyx Helmet](../../assets/mythicmetals/stormyx_helmet.png){ .sized-image style="--image-width: 40%;" }<br>
     ![armor](../../assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }

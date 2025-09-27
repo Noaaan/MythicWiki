@@ -2,13 +2,13 @@
 title: Mythril Armor
 project: mythicmetals
 summary: The armor does protect you (TODO).
-armoricon: mythril_256.png
+armoricon: mythril.png
 ---
 
 !!! info inline end ""
     <center class=tooltip>
     <h3>**Mythril Armor**</h3>
-    ![WRITE ALT TEXT HERE](../../assets/armor-models/256/mythril_256.png)<br>
+    ![WRITE ALT TEXT HERE](../../assets/armor-models/256/mythril.png)<br>
 
 	<h4>**Mythril Helmet**</h4>
 	![Image of Mythril Helmet](../../assets/mythicmetals/mythril_helmet.png){ .sized-image style="--image-width: 40%;" }<br>	![armor](../../assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }

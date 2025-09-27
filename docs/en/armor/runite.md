@@ -2,13 +2,13 @@
 title: Runite Armor
 project: mythicmetals
 summary: The armor does protect you (TODO).
-armoricon: runite_256.png
+armoricon: runite.png
 ---
 
 !!! info inline end ""
     <center class=tooltip>
     <h3>**Runite Armor**</h3>
-    ![WRITE ALT TEXT HERE](../../assets/armor-models/256/runite_256.png)<br>
+    ![WRITE ALT TEXT HERE](../../assets/armor-models/256/runite.png)<br>
 
 	<h4>**Runite Helmet**</h4>
 	![Image of Runite Helmet](../../assets/mythicmetals/runite_helmet.png){ .sized-image style="--image-width: 40%;" }<br>	![armor](../../assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }

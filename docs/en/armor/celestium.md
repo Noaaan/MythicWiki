@@ -2,13 +2,13 @@
 title: Celestium Armor
 project: mythicmetals
 summary: The armor does protect you (TODO).
-armoricon: celestium_256.png
+armoricon: celestium.png
 ---
 
 !!! info inline end ""
     <center class=tooltip>
     <h3>**Celestium Armor**</h3>
-    ![WRITE ALT TEXT HERE](../../assets/armor-models/256/celestium_256.png)<br>
+    ![WRITE ALT TEXT HERE](../../assets/armor-models/256/celestium.png)<br>
 
 	<h4>**Celestium Helmet**</h4>
 	![Image of Celestium Helmet](../../assets/mythicmetals/celestium_helmet.png){ .sized-image style="--image-width: 40%;" }<br>	![armor](../../assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }

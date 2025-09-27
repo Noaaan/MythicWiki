@@ -2,13 +2,13 @@
 title: Orichalcum Armor
 project: mythicmetals
 summary: The armor does protect you (TODO).
-armoricon: orichalcum_256.png
+armoricon: orichalcum.png
 ---
 
 !!! info inline end ""
     <center class=tooltip>
     <h3>**Orichalcum Armor**</h3>
-    ![WRITE ALT TEXT HERE](../../assets/armor-models/256/orichalcum_256.png)<br>
+    ![WRITE ALT TEXT HERE](../../assets/armor-models/256/orichalcum.png)<br>
 
 	<h4>**Orichalcum Helmet**</h4>
 	![Image of Orichalcum Helmet](../../assets/mythicmetals/orichalcum_helmet.png){ .sized-image style="--image-width: 40%;" }<br>	![armor](../../assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }

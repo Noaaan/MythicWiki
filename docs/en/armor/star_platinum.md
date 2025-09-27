@@ -2,13 +2,13 @@
 title: Star Platinum Armor
 project: mythicmetals
 summary: The armor does protect you (TODO).
-armoricon: star_platinum_256.png
+armoricon: star_platinum.png
 ---
 
 !!! info inline end ""
     <center class=tooltip>
     <h3>**Star Platinum Armor**</h3>
-    ![WRITE ALT TEXT HERE](../../assets/armor-models/256/star_platinum_256.png)<br>
+    ![WRITE ALT TEXT HERE](../../assets/armor-models/256/star_platinum.png)<br>
 
 	<h4>**Star Platinum Helmet**</h4>
 	![Image of Star Platinum Helmet](../../assets/mythicmetals/star_platinum_helmet.png){ .sized-image style="--image-width: 40%;" }<br>	![armor](../../assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }

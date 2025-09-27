@@ -2,13 +2,13 @@
 title: Hallowed Armor
 project: mythicmetals
 summary: The armor does protect you (TODO).
-armoricon: hallowed_256.png
+armoricon: hallowed.png
 ---
 
 !!! info inline end ""
     <center class=tooltip>
     <h3>**Hallowed Armor**</h3>
-    ![WRITE ALT TEXT HERE](../../assets/armor-models/256/hallowed_256.png)<br>
+    ![WRITE ALT TEXT HERE](../../assets/armor-models/256/hallowed.png)<br>
 
 	<h4>**Hallowed Helmet**</h4>
 	![Image of Hallowed Helmet](../../assets/mythicmetals/hallowed_helmet.png){ .sized-image style="--image-width: 40%;" }<br>	![armor](../../assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }

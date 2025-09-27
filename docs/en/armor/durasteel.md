@@ -2,13 +2,13 @@
 title: Durasteel Armor
 project: mythicmetals
 summary: The armor does protect you (TODO).
-armoricon: durasteel_256.png
+armoricon: durasteel.png
 ---
 
 !!! info inline end ""
     <center class=tooltip>
     <h3>**Durasteel Armor**</h3>
-    ![WRITE ALT TEXT HERE](../../assets/armor-models/256/durasteel_256.png)<br>
+    ![WRITE ALT TEXT HERE](../../assets/armor-models/256/durasteel.png)<br>
 
 	<h4>**Durasteel Helmet**</h4>
 	![Image of Durasteel Helmet](../../assets/mythicmetals/durasteel_helmet.png){ .sized-image style="--image-width: 40%;" }<br>	![armor](../../assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }

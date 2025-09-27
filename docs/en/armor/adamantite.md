@@ -2,13 +2,13 @@
 title: Adamantite Armor
 project: mythicmetals
 summary: The armor does protect you (TODO).
-armoricon: adamantite_256.png
+armoricon: adamantite.png
 ---
 
 !!! info inline end ""
     <center class=tooltip>
     <h3>**Adamantite Armor**</h3>
-    ![WRITE ALT TEXT HERE](../../assets/armor-models/256/adamantite_256.png)<br>
+    ![WRITE ALT TEXT HERE](../../assets/armor-models/256/adamantite.png)<br>
 
 	<h4>**Adamantite Helmet**</h4>
 	![Image of Adamantite Helmet](../../assets/mythicmetals/adamantite_helmet.png){ .sized-image style="--image-width: 40%;" }<br>	![armor](../../assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }

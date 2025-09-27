@@ -2,7 +2,7 @@
 title: Palladium Armor
 project: mythicmetals
 summary: The armor protects you against fire, and also grants the wearer better vision and higher swim speeds in Lava.
-armoricon: palladium_256.png
+armoricon: palladium.png
 ---
 
 # Palladium Armor
@@ -10,7 +10,7 @@ armoricon: palladium_256.png
 !!! info inline end ""
     <center class=tooltip>
     <h3>**Palladium Armor**</h3>
-    ![Image of Palladium Armor](../../assets/armor-models/256/palladium_256.png)
+    ![Image of Palladium Armor](../../assets/armor-models/256/palladium.png)
 
     <center class=tooltip>
     <h4>**Palladium Helmet**</h4>

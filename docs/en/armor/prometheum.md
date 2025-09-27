@@ -2,13 +2,13 @@
 title: Prometheum Armor
 project: mythicmetals
 summary: The armor does protect you (TODO).
-armoricon: prometheum_256.png
+armoricon: prometheum.png
 ---
 
 !!! info inline end ""
     <center class=tooltip>
     <h3>**Prometheum Armor**</h3>
-    ![WRITE ALT TEXT HERE](../../assets/armor-models/256/prometheum_256.png)<br>
+    ![WRITE ALT TEXT HERE](../../assets/armor-models/256/prometheum.png)<br>
 
 	<h4>**Prometheum Helmet**</h4>
 	![Image of Prometheum Helmet](../../assets/mythicmetals/prometheum_helmet.png){ .sized-image style="--image-width: 40%;" }<br>	![armor](../../assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }

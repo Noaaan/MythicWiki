@@ -2,13 +2,13 @@
 title: Kyber Armor
 project: mythicmetals
 summary: The armor does protect you (TODO).
-armoricon: kyber_256.png
+armoricon: kyber.png
 ---
 
 !!! info inline end ""
     <center class=tooltip>
     <h3>**Kyber Armor**</h3>
-    ![WRITE ALT TEXT HERE](../../assets/armor-models/256/kyber_256.png)<br>
+    ![WRITE ALT TEXT HERE](../../assets/armor-models/256/kyber.png)<br>
 
 	<h4>**Kyber Helmet**</h4>
 	![Image of Kyber Helmet](../../assets/mythicmetals/kyber_helmet.png){ .sized-image style="--image-width: 40%;" }<br>	![armor](../../assets/icon/full_armor_icon.png){ .sized-image style="--image-width: 8%;" }
