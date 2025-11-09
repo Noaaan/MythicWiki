@@ -134,16 +134,26 @@ Here are the directions of how to obtain the Smithing Tables (up-to-date as of 0
 
 ## How do I upgrade a Mythril Drill?
 
+To upgrade the Mythril Drill you can simply insert the Mythril Drill into a Smithing Table with an availabe [upgrade item](#available-drill-upgrades).
+This process is **not reversible**, and you will not get your upgrade item back after using it. 
+
+### Legacy Upgrades
+
+Upgrading the Drill this way is relevant for any version below `0.22.0`.
+
 Any item with the tooltip "Mythril Drill Upgrade" should be insertable in the Mythril Drill. Simply right click the upgrade item onto the drill to insert it. A video example is below. This is the same mechanics as the [Bundle](https://minecraft.wiki/w/Bundle) uses.
 
 ![type:video](../assets/video/upgrade-drill-howto.mp4)
+
+### Available Drill Upgrades
 
 For the available list of Drill Upgrades, see the following table:
 
 | Method      | Description                          | Relevant versions   |
 | :---------: | :----------------------------------  | :---:               |
 | Enchanted Midas Gold Block | Golden Luck - Gives you +2 Luck while holding the drill, and randomly drops raw gold when breaking an ore.  | 0.18.0+ |
-| Prometheum Bouquet | Slowly repairs the durability of the drill. | 0.18.0+ |
+| Prometheum Bouquet | Slowly repairs and refuels the Drill in inventory. | 0.20.0+ |
+| Prometheum Bouquet | Slowly repairs the durability of the Drill while in hand. | 0.18.0 to 0.19.10 |
 | Aquarium Pearl | Aqua Affinity - Increases your mining speed underwater, and restores a small amount of air when breaking an ore.  | 0.17.0+ |
 | Stormyx Shell | Banglum Defuser - Drastically reduces the chance of Banglum exploding. | 0.17.0+ |
 | Carmot Stone | +1 Fortune - Increases the level of Fortune on your drill by one level. | 0.18.0+ |
